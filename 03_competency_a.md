@@ -7,3 +7,5 @@ A. Demonstrate awareness of the ethics, values, and foundational principles of o
 - Now present and discuss each piece of evidence you selected - say why you selected this evidence and how it demonstrates your competency and the skills and knowledge you learned.
 - Close by discussing how you are able (know how to, or can) apply or transfer your skills and knowledge in the future to different [work] situations or environments.
 - You must include a minimum of one piece of evidence for each competency; however, submitting two or three pieces of evidence is preferred. The final decision rests with your e-Portfolio advisor whether more will be required. See Examples of Evidentiary Items for more specifics about evidence. Note: Your evidence should be in its own section either as attachments or URLS.
+
+- INFO 200
