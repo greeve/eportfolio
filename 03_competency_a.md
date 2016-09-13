@@ -9,3 +9,5 @@ A. Demonstrate awareness of the ethics, values, and foundational principles of o
 - You must include a minimum of one piece of evidence for each competency; however, submitting two or three pieces of evidence is preferred. The final decision rests with your e-Portfolio advisor whether more will be required. See Examples of Evidentiary Items for more specifics about evidence. Note: Your evidence should be in its own section either as attachments or URLS.
 
 - INFO 200
+
+All information professions follow a set of ethics and values that unndergird their peofessional practices. These moral principles
