@@ -31,13 +31,15 @@ The *Code of Ethics* includes the following eight fundamental statements (!ref):
 
 These principles are rooted in the goal of establishing enviroments of "intellectual freedom and the freedom of access to information" (!ref ALA ethics). 
 
-Other professional information organizations include their own code of ethics including [*A Code of Ethics for Information Scientists*][info science ethics] and the [*WorldCat Rights and Responsibilities for the OCLC Cooperative*][oclc rights].
+Other professional information organizations use their own code of ethics including [*A Code of Ethics for Information Scientists*][info science ethics] and the [*WorldCat Rights and Responsibilities for the OCLC Cooperative*][oclc rights].
 
 An example of the application of these ethics and values can be found in the guideline documents from the [*Reference and User Services Association*][rusa] including the [*Health and Medical Reference Guidelines*][rusa health] and [*Guidelines for Behavioral Performance of Reference and Information Service Providers*][rusa behavior]. 
 
 These guidelines find application in a variety of professional settings where information professionals interact with patrons and help them find the information they are seeking. 
 
 The performance of an information professional answering the information needs of a patron can be judged based on their professional behavior, understanding and following their organization's policies, and respecting the patron's rights to information.
+
+This understanding of the ethics involved with patron interaction is addressed in a reference interview assignment for LIBR 210.
 
 ## Evidence
 
