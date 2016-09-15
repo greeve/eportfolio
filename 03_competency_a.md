@@ -41,6 +41,16 @@ The performance of an information professional answering the information needs o
 
 This understanding of the ethics involved with patron interaction is addressed in a reference interview assignment for LIBR 210.
 
+[statement about ethical dillemas and how they accur]
+
+Adhering to a code of ethics also helps resolve ethical dillemas when they occur in professional information settings. 
+
+An example dillemma can occur when trying to meet the needs of individuals while also providing for the good of the community at large. 
+
+Sometimes issues occur in a peofessional information environment where these goals seem to be in opposition to each other. 
+
+A discussion posting in LIBR 200 helps illustrate how these principles address when the needs of an individual patron appear to conflict with the collective good of society. 
+
 ## Evidence
 
 - INFO 200
