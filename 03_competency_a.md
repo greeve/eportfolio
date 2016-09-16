@@ -47,7 +47,7 @@ Adhering to a code of ethics also helps resolve ethical dillemas when they occur
 
 An example dillemma can occur when trying to meet the needs of individuals while also providing for the good of the community at large. 
 
-Sometimes issues occur in a peofessional information environment where these goals seem to be in opposition to each other. 
+Sometimes issues occur in a professional information environment where these goals seem to be in opposition to each other. 
 
 A discussion posting in LIBR 200 helps illustrate how these principles address when the needs of an individual patron appear to conflict with the collective good of society. 
 
