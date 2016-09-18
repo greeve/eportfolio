@@ -29,7 +29,13 @@ The *Code of Ethics* includes the following eight fundamental statements (!ref):
 
 Other professional information organizations use their own code of ethics including [*A Code of Ethics for Information Scientists*][info science ethics] and the [*WorldCat Rights and Responsibilities for the OCLC Cooperative*][oclc rights].
 
-An example of the application of these ethics and values can be found in the guideline documents from the [*Reference and User Services Association*][rusa] including the [*Health and Medical Reference Guidelines*][rusa health] and [*Guidelines for Behavioral Performance of Reference and Information Service Providers*][rusa behavior]. 
+Public and academic libraries also create their own set of ethical policies and procedures. 
+
+These procedures can clarify the role of the librarian and the librarian's relationship to patrons.
+
+They can also explain how patron circulation records are handled and kept confidential as well as the extent of legal counsel a librarian can provide. 
+
+An example of the application of a information profession's ethics and values can be found in the guideline documents from the [*Reference and User Services Association*][rusa] including the [*Health and Medical Reference Guidelines*][rusa health] and [*Guidelines for Behavioral Performance of Reference and Information Service Providers*][rusa behavior]. 
 
 These guidelines find application in a variety of professional settings where information professionals interact with patrons and help them find the information they are seeking. 
 
@@ -56,7 +62,19 @@ The following evidences from previous course work demonstrates knowledge of the 
 
 One of the last assignments for the Reference and Information Services course (LIBR 210) required creating a written script of a librarian answering the question of a patron. 
 
-The assignment was designed to help illustrate a good reference interview that involved ethical considerations using the RUSA guidelines. 
+The assignment was designed to illustrate a good reference interview involving ethical considerations following the RUSA guidelines. 
+
+In the reference interview script the patron, who is a local DJ, asks the librarian to know if they are legally allowed to remix the work of other musicians into their own. 
+
+The librarian has to walk a careful balance between following established ethical guidelines while also helping the patron find information to answer their information needs. 
+
+Public and academic libraries often have policies that restrict librarians and staff from providing authoritative legal counsel. 
+
+In this scenario the librarian wasn't able to directly answer whether the actions of the DJ were legal.
+
+Instead they shared the legal resources available in the library so that the patron would be empowered to find their own answers. 
+
+The librarian was also bound by the ALA code of ethics to not express their own personal opinion about the legal matter to avoid interfering with the library's institutional aims and the patron's access to information (see ALA Code of Ethics #7). 
 
 - LIBR210\_A6.pages (RUSA guidelines for reference interviews)
 
