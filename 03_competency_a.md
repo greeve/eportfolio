@@ -2,11 +2,9 @@
 
 A. Demonstrate awareness of the ethics, values, and foundational principles of one of the information professions, and discuss the importance of intellectual freedom within that profession;
 
-- Start with what you understand the competency to mean - define the competency. Be careful to thoroughly address each part of the competency. Explain why it is important to the profession as a whole. Use the rubrics -these are your guidelines to writing a successful statement of competency.
 - Discuss what coursework/work experience prepared you for understanding and being able to perform the competency.
 - Now present and discuss each piece of evidence you selected - say why you selected this evidence and how it demonstrates your competency and the skills and knowledge you learned.
 - Close by discussing how you are able (know how to, or can) apply or transfer your skills and knowledge in the future to different [work] situations or environments.
-- You must include a minimum of one piece of evidence for each competency; however, submitting two or three pieces of evidence is preferred. The final decision rests with your e-Portfolio advisor whether more will be required. See Examples of Evidentiary Items for more specifics about evidence. Note: Your evidence should be in its own section either as attachments or URLS.
 
 # Competency A
 
@@ -29,8 +27,6 @@ The *Code of Ethics* includes the following eight fundamental statements (!ref):
 7. We distinguish between our personal convictions and professional duties and do not allow our personal beliefs to interfere with fair representation of the aims of our institutions or the provision of access to their information resources.
 8. We strive for excellence in the profession by maintaining and enhancing our own knowledge and skills, by encouraging the professional development of co-workers, and by fostering the aspirations of potential members of the profession.
 
-These principles are rooted in the goal of establishing enviroments of "intellectual freedom and the freedom of access to information" (!ref ALA ethics). 
-
 Other professional information organizations use their own code of ethics including [*A Code of Ethics for Information Scientists*][info science ethics] and the [*WorldCat Rights and Responsibilities for the OCLC Cooperative*][oclc rights].
 
 An example of the application of these ethics and values can be found in the guideline documents from the [*Reference and User Services Association*][rusa] including the [*Health and Medical Reference Guidelines*][rusa health] and [*Guidelines for Behavioral Performance of Reference and Information Service Providers*][rusa behavior]. 
@@ -41,21 +37,32 @@ The performance of an information professional answering the information needs o
 
 This understanding of the ethics involved with patron interaction is addressed in a reference interview assignment for LIBR 210.
 
-In the course of following a professional code of ethics situations sometimes arise that create ethical dillemas where there is an apparent conflict between two or more principles outlined in the code of ethics. 
+Within the information professions ethical codes are rooted in the goal of establishing environments of "intellectual freedom and the freedom of access to information" (!ref ALA ethics). 
 
-An example dillemma can occur when trying to meet the needs of individuals while also providing for the good of the community at large. 
+In the course of following a professional code of ethics situations sometimes arise that create ethical dilemmas where there is an apparent conflict between two or more ethical principles.
+
+An example dilemma involving intellectual freedom and access to information can occur when trying to meet the needs of individuals while also providing for the good of the community.
 
 A discussion posting in LIBR 200 illustrates how these principles clarify what to do when the needs of an individual patron appear to conflict with the collective good of society. 
 
 ## Evidence
 
-- INFO 200
-    - LIBR200\_Discussion3.txt
-- LIBR 210
-    - LIBR210\_A6.pages (RUSA guidelines for reference interviews)
-    - LIBR210\_D7.md
-    - LIBR210\_D8.md
-    - LIBR210\_M14.md (archive has questions)
+The following evidences from previous course work demonstrates knowledge of the codes of ethics within information professions and gives examples of complexities that often arise in trying to follow each ethical code. 
+
+1. A reference interview assignment following the RUSA guidelines for LIBR 210
+2. A discusion post from LIBR 200 about ethical dilemmas
+
+### LIBR 210: Reference Interview Assignment
+
+One of the last assignments for the Reference and Information Services course (LIBR 210) required creating a written script of a librarian answering the question of a patron. 
+
+The assignment was designed to help illustrate a good reference interview that involved ethical considerations using the RUSA guidelines. 
+
+- LIBR210\_A6.pages (RUSA guidelines for reference interviews)
+
+### LIBR 200: Ethical dilemma discussion post
+
+- LIBR200\_Discussion3.txt
 
 ## Conclusion
 

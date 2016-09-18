@@ -5,3 +5,5 @@ C. recognize the diversity (such as cultural and economic) in the clientele and 
 - INFO 200
 - INFO 220 (Digital Humanities)
 - INFO 280
+- LIBR 210
+    - LIBR210\_D8.md
