@@ -80,6 +80,14 @@ The librarian was also bound by the ALA code of ethics to not express their own 
 
 ### LIBR 200: Ethical dilemma discussion post
 
+A discussion post assignment in Information and Society (LIBR 200) explored a scenario of a patron asking for information that could be used to harm others in the community and society. 
+
+This discussion post question was patterned after an experiment conducted by Robert Hauptman and reported in his symposium contribution, *Ethical Concerns in Librarianship: An Overview*, given at the 27th annual symposium of the graduate alumni and faculty of the Rutgers School of Communication, Information, and Library Studies. 
+
+The experiment looked to discover how librarians respond to a patron asking for information about building a bomb with the destructive capacity to explode a suburban home.
+
+The discussion post was designed to explore whether to blindly serve the patron without regard to the potential harm this information could cause or to put the good of society and the larger community above the interests of the one patron. 
+
 - LIBR200\_Discussion3.txt
 
 ## Conclusion
@@ -88,6 +96,7 @@ The librarian was also bound by the ALA code of ethics to not express their own 
 
 SJSU iSchool Competency A
 ALA Code of Ethics (website and pdf)
+Hauptman, Robert. 1990. Ethical Concerns in Librarianship: An Overview. In Information Ethics, ed. by Anne Mintz, pp. 14-23. Jefferson: McFarland. 
 
 [ala ethics]: http://www.ala.org/advocacy/proethics/codeofethics/codeethics "ALA Code of Ethics"
 [comp a]: http://ischool.sjsu.edu/current-students/courses/core-competencies "SJSU iSchool MLIS Core Competencies"
