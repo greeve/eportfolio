@@ -80,23 +80,40 @@ The librarian was also bound by the ALA code of ethics to not express their own 
 
 ### LIBR 200: Ethical dilemma discussion post
 
-A discussion post assignment in Information and Society (LIBR 200) explored a scenario of a patron asking for information that could be used to harm others in the community and society. 
+A discussion post assignment in Information and Society (LIBR 200) explored the ethical dilemma of either blindly serving a library patron or not serving the patron when their request conflicts with the community's interests and safety.
 
 This discussion post question was patterned after an experiment conducted by Robert Hauptman and reported in his symposium contribution, *Ethical Concerns in Librarianship: An Overview*, given at the 27th annual symposium of the graduate alumni and faculty of the Rutgers School of Communication, Information, and Library Studies. 
 
 The experiment looked to discover how librarians respond to a patron asking for information about building a bomb with the destructive capacity to explode a suburban home.
 
-The discussion post was designed to explore whether to blindly serve the patron without regard to the potential harm this information could cause or to put the good of society and the larger community above the interests of the one patron. 
+The discussion post explains the view point that it would be unethical to blindly serve a patron without regard to any other moral obligations to other parts of the community and society. 
 
-- LIBR200\_Discussion3.txt
+Although respect for the individual is a core ethical principle for information professionals there is also a responsibility to to the collective 'good'. 
+
+This ethical dilemma illustrates that "conflicts might occur between social responsibility and respecting the individual" but that despite these conflicts respect for the autonomy of a patron and their individuality should be protected as long as the patron doesn't "violate the dignity and respect of others" (Rubin, 2010, p. 418-419)
 
 ## Conclusion
+
+This scenario as well as other complex ethical dilemmas (e.g. item selection, copyright and intellectual property, professional conflics of interest) demonstrate the need to "anticipate and understand the nature of ethical dilemmas likely to occur in libraries, be familiar with the ethical prescriptions of the field, and know the factors that should be considered when deliberating ethical issues" (Rubin, 2010, p. 417)
+
+Professional codes of ethics aren't created to be used merely *if* ethical dilemmas occur. 
+
+In our ever-changing information society information professionals will continue to face ethical dilemmas. 
+
+The question is not *if* they will occur but *when*.
+
+Thus, it is only in understanding a professional code of ethics that an information professional can be prepared to resolve ethical dilemmas when they occur.
 
 ## References
 
 SJSU iSchool Competency A
 ALA Code of Ethics (website and pdf)
-Hauptman, Robert. 1990. Ethical Concerns in Librarianship: An Overview. In Information Ethics, ed. by Anne Mintz, pp. 14-23. Jefferson: McFarland. 
+
+Hauptman, Robert. 1990. Ethical Concerns in Librarianship: An Overview. In Information Ethics, ed. by Anne Mintz, pp. 14-23. Jefferson: McFarland.	
+
+Mason, M. K. (2013). *Ethics of librarianship: Libraries, intellectual freedom, and censorship in the age of technology*. Retrieved from <http://www.moyak.com/papers/ethics-librarianship.html>
+
+Rubin, R.E. (2010). *Foundations of library and information science*. New York: Neal-Schuman.
 
 [ala ethics]: http://www.ala.org/advocacy/proethics/codeofethics/codeethics "ALA Code of Ethics"
 [comp a]: http://ischool.sjsu.edu/current-students/courses/core-competencies "SJSU iSchool MLIS Core Competencies"
