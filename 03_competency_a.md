@@ -121,3 +121,4 @@ Rubin, R.E. (2010). *Foundations of library and information science*. New York: 
 [oclc rights]: https://www.oclc.org/worldcat/cooperative-quality/policy.en.html "OCLC Rights and Responsibilities"
 [rusa behavior]: http://www.ala.org/rusa/resources/guidelines/guidelinesbehavioral "RUSA Behavioral Performance Guidelines"
 [rusa]: http://www.ala.org/rusa/ "RUSA"
+[rusa health]: http://www.ala.org/rusa/resources/guidelines/guidelinesmedical "RUSA Health and Medical Guidelines"
