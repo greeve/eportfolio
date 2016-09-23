@@ -9,3 +9,4 @@ B. describe and compare organizational settings in which information professiona
 - You must include a minimum of one piece of evidence for each competency; however, submitting two or three pieces of evidence is preferred. The final decision rests with your e-Portfolio advisor whether more will be required. See Examples of Evidentiary Items for more specifics about evidence. Note: Your evidence should be in its own section either as attachments or URLS.
 
 - INFO 200
+- INFO 204
