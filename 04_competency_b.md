@@ -4,9 +4,19 @@ B. describe and compare organizational settings in which information professiona
 
 The second core competency is to "describe and compare organizational settings in which information professionals practice" (!ref). 
 
+As the amount and significance of information in society continues to increase there is a correlated increase in the need for information profressionals. 
+
 Information professionals work in a variety of organizational environments that span many disciplines. 
 
-As the role of information continues to rise in importance within society there is a correlated increase in the need for information professionals 
+These professional information disciplines can be viewed as additional disciplines at the same level and along the same scpectrum as other professional disciplines.
+
+The information disciplines can alternatively be seen as "meta-disciplines" that span all other disciplines (Bates, 2015).
+
+Another way to categorize the organizational settings of information professionals is to categorize these organizationas by their fundamental role in socity. 
+
+Some organizations are designed to create profit others for non-profit.
+
+Organizational settings are found in governments and public-sector organizations as well as private-sector companies.
 
 - Start with what you understand the competency to mean - define the competency. Be careful to thoroughly address each part of the competency. Explain why it is important to the profession as a whole. Use the rubrics -these are your guidelines to writing a successful statement of competency.
 - Discuss what coursework/work experience prepared you for understanding and being able to perform the competency.
