@@ -16,7 +16,11 @@ Another way to categorize the organizational settings of information professiona
 
 Some organizations are designed to create profit others for non-profit.
 
-Organizational settings are found in governments and public-sector organizations as well as private-sector companies.
+Organizations are found in governments and public-sector organizations as well as private-sector companies.
+
+The nature of the organization influences the missions, aims, and goals of the organization's members and employees. 
+
+This also influences the type of work performed by information professionals. 
 
 - Start with what you understand the competency to mean - define the competency. Be careful to thoroughly address each part of the competency. Explain why it is important to the profession as a whole. Use the rubrics -these are your guidelines to writing a successful statement of competency.
 - Discuss what coursework/work experience prepared you for understanding and being able to perform the competency.
