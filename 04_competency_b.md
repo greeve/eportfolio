@@ -14,7 +14,7 @@ The information disciplines can alternatively be seen as "meta-disciplines" that
 
 Another way to categorize the organizational settings of information professionals is to categorize these organizationas by their fundamental role in socity. 
 
-Some organizations are designed to create profit others for non-profit.
+Some organizations are designed to generate profit while others are created for non-profit aims and purposes.
 
 Organizations are found in governments and public-sector organizations as well as private-sector companies.
 
@@ -22,22 +22,61 @@ The nature of the organization influences the missions, aims, and goals of the o
 
 This also influences the type of work performed by information professionals. 
 
-(connective stuff)
+(connective statement or two)
 
-An reflective essay assignment in LIBR 200 explores a professional association within the information profession. Professional associations are typical of non-profit organizations that support the advancement of professionals within a given field of labor. Researching and writing about the Association of Research Libraries helped further understand one type of organizational setting available to information professionals.
+A reflective essay assignment in LIBR 200 explores a professional association within the information profession. 
 
-Information retrieval systems are an essential part of many organizational settings where information professionals practice. Their form and use evolve as technology continues to advance and improve. A reflective essay assignment in LIBR 200 about information retrieval systems sheds light on a core part of the practice of information professionals. 
+Professional associations are typical of non-profit organizations that support the advancement of professionals within a given field of labor. 
 
-Strategic planning is an essential tool to guide and shape the environment and direction of an organization. The practice of information professionals within organizations is directly affected by the organization's mission, aims, values, and goals. A semester-long project to develop a strategic plan for an existing public library was valuable to better understand the organizational setting where public library staff practice their craft.
+Example professional associations include the American Library Association (ALA), the American Society for Information Science and Technology (ASIS&T), 
+International Federation of Library Associations and Institutions (IFLA), and the Special Libraries Association (SLA).
 
-LIBR 200 Reflective Essay: Professional Associations
+ Researching and writing about the Association of Research Libraries helps further understand one type of organizational setting available to information professionals.
 
-LIBR 200 Reflective Essay:
-Information Retrieval Systems
+Strategic planning is an essential tool to guide and shape the environment and direction of an organization. 
 
-LIBR 204 Strategic Planning Project
+The practice of information professionals within organizations is directly affected by the organization's mission, aims, values, and goals. 
 
+A semester-long project to develop a strategic plan for an existing public library was valuable to better understand the organizational setting where public library staff practice their craft.
 
+## LIBR 200 Reflective Essay: Professional Associations
+
+This assignment required writing about a professional association within the library and information and profession.
+
+Professional associations are important to the organizational setting of information professionals because of their role in providing a support network that connects together similar organizations.
+
+This support network gives practitioners access to resources and tools that can help them accomplish their work that would be hard to find and discover on their own.  
+
+This reflective essay focuses on the Association of Research Libraries (ARL; !link, ref?). 
+
+Started in 1932 by 42 university and research library directors the ARL is a non-profit library association that currently includes 125 research libraries. 
+
+The association's core principles and mission center are built upon open access to information, research libraries as a major source of knowledge to society, 
+identifying and acting on emerging trends, and meeting the needs of the communities served by each research library. 
+
+Like many professional associations, ARL acts like connective tissue linking library and information organizations with similar goals and initiatives. 
+
+The work done by the ARL and its member research libraries establish industry standards, policies, and best practices for information professionals that help them better serve their patron's and communities.
+
+## LIBR 204 Strategic Planning Project
+
+An information professional's organizational setting is shaped and influenced by many forces both intentional and unintentional.
+
+Strategic planning is the organizational process that strives to shape and direct the mission, aims, and goals of an organization and its members. 
+
+This planning process and the implementation of that plan also shape the organizational setting of information professionals. 
+
+A two-phase, semester-long group project in LIBR 204 included formulating a strategic plan for an existing public library. 
+
+This project explored the framework that assists in defining the organizational setting for public library staff and librarians. 
+
+Phase one in the project included 
+
+## Conclusion
+
+- emerging technologies and trends
+- evolving work place and work skills and requirements
+- professional associations, IR systems, and strategic planning
 
 - Start with what you understand the competency to mean - define the competency. Be careful to thoroughly address each part of the competency. Explain why it is important to the profession as a whole. Use the rubrics -these are your guidelines to writing a successful statement of competency.
 - Discuss what coursework/work experience prepared you for understanding and being able to perform the competency.
@@ -47,3 +86,7 @@ LIBR 204 Strategic Planning Project
 
 - INFO 200
 - INFO 204
+
+## References
+
+Harter, Stephen. 1986. Online Information Retrieval. Orlando, FL: Academic Press.
