@@ -62,15 +62,31 @@ The work done by the ARL and its member research libraries establish industry st
 
 An information professional's organizational setting is shaped and influenced by many forces both intentional and unintentional.
 
-Strategic planning is the organizational process that strives to shape and direct the mission, aims, and goals of an organization and its members. 
+Strategic planning is the organizational process that strives to shape and direct the mission, vision, and values of an organization and its members. 
+
+It also includes environmental scanning and analyzing the organization's strengths, weaknesses, opportunities, and threats (SWOT).
 
 This planning process and the implementation of that plan also shape the organizational setting of information professionals. 
 
-A two-phase, semester-long group project in LIBR 204 included formulating a strategic plan for an existing public library. 
+A two-phase, semester-long group project in LIBR 204 included formulating a strategic plan for the Hingham Public Library in Hingham, Massachusetts.
 
 This project explored the framework that assists in defining the organizational setting for public library staff and librarians. 
 
-Phase one in the project included 
+Phase one in the project included a literature review about evironmental scanning, creating the public library's mission, vision, and values statement, an environmental scan of the library, and SWOT analysis.
+
+Elements of phase one were used to formulate and present a strategic plan for the library.
+
+This project revealed the organizational setting of a public library and the importance of carefully choosing and following its mission, vision, and values. 
+
+It also demonstrated the need for library staff to accurately identify the organization's strengths, weaknesses, opportunities, and threats.
+
+"Organizations must be 
+designed to be flexible so they can adapt to change" and increase involvement and 
+communication between management and various departments within the organization (Huffman, 2004, p. 48). 
+
+This project demonstrated that the work performed in this public library is a valuable and relevant part of the library's local community. 
+
+Library staff are the key to helping the library achieve its mission, vision, and values. 
 
 ## Conclusion
 
