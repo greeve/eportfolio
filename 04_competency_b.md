@@ -86,12 +86,18 @@ communication between management and various departments within the organization
 
 This project demonstrated that the work performed in this public library is a valuable and relevant part of the library's local community. 
 
-Library staff are the key to helping the library achieve its mission, vision, and values. 
+The work and responsibilites of library staff directly contribute to achieving the library's mission, vision, and values. 
 
 ## Conclusion
 
-- emerging technologies and trends
-- evolving work place and work skills and requirements
+Information professionals practice in a variety of organizational settings. 
+
+Some work directly with emerging technolgies and trends. 
+
+Information organizations in today's society require employees to keep pace with the evolving work skills and requirements. 
+
+Progessional associations connect information professionals to a network of skills, best practices, and resources that assist them in accomplishing their work responsibilities and meet the needs of their communities. 
+
 - professional associations, IR systems, and strategic planning
 
 - Start with what you understand the competency to mean - define the competency. Be careful to thoroughly address each part of the competency. Explain why it is important to the profession as a whole. Use the rubrics -these are your guidelines to writing a successful statement of competency.
