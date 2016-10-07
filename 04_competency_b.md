@@ -1,7 +1,5 @@
 # Compentency B
 
-B. describe and compare organizational settings in which information professionals practice;
-
 The second core competency is to "describe and compare organizational settings in which information professionals practice" (!ref). 
 
 As the amount and significance of information in society continues to increase there is a correlated increase in the need for information profressionals. 
@@ -21,8 +19,6 @@ Organizations are found in governments and public-sector organizations as well a
 The nature of the organization influences the missions, aims, and goals of the organization's members and employees. 
 
 This also influences the type of work performed by information professionals. 
-
-(connective statement or two)
 
 A reflective essay assignment in LIBR 200 explores a professional association within the information profession. 
 
@@ -51,8 +47,7 @@ This reflective essay focuses on the Association of Research Libraries (ARL; !li
 
 Started in 1932 by 42 university and research library directors the ARL is a non-profit library association that currently includes 125 research libraries. 
 
-The association's core principles and mission center are built upon open access to information, research libraries as a major source of knowledge to society, 
-identifying and acting on emerging trends, and meeting the needs of the communities served by each research library. 
+The association's core principles and mission center are built upon open access to information, research libraries as a major source of knowledge to society, identifying and acting on emerging trends, and meeting the needs of the communities served by each research library. 
 
 Like many professional associations, ARL acts like connective tissue linking library and information organizations with similar goals and initiatives. 
 
@@ -96,19 +91,25 @@ Some work directly with emerging technolgies and trends.
 
 Information organizations in today's society require employees to keep pace with the evolving work skills and requirements. 
 
-Progessional associations connect information professionals to a network of skills, best practices, and resources that assist them in accomplishing their work responsibilities and meet the needs of their communities. 
+Progessional associations connect information professionals to a network of other professionals in the same domain of work. 
 
-- professional associations, IR systems, and strategic planning
+Through these associations information professionals receive skills, best practices, and resources to accomplish their work responsibilities and meet the needs of their communities. 
 
-- Start with what you understand the competency to mean - define the competency. Be careful to thoroughly address each part of the competency. Explain why it is important to the profession as a whole. Use the rubrics -these are your guidelines to writing a successful statement of competency.
-- Discuss what coursework/work experience prepared you for understanding and being able to perform the competency.
-- Now present and discuss each piece of evidence you selected - say why you selected this evidence and how it demonstrates your competency and the skills and knowledge you learned.
-- Close by discussing how you are able (know how to, or can) apply or transfer your skills and knowledge in the future to different [work] situations or environments.
-- You must include a minimum of one piece of evidence for each competency; however, submitting two or three pieces of evidence is preferred. The final decision rests with your e-Portfolio advisor whether more will be required. See Examples of Evidentiary Items for more specifics about evidence. Note: Your evidence should be in its own section either as attachments or URLS.
+Strategic planning is another part of an organization's setting that influences the work and focus of information professionals within the organization. 
 
-- INFO 200
-- INFO 204
+An organization's mission, vision, and values create a framework that information professionals work within and use to help meet the needs of those they serve. 
 
 ## References
 
+About ARL (2013). In Association of Research Libraries website. Retrieved from <http://www.arl.org/about>
+
+Association of Research Libraries (2012). *ARL Strategic Plan 2010-2012*. Retrieved from <http://www.arl.org/storage/documents/publications/strategic-plan-2010-2012.pdf>
+
+Bates, M. J. (2015). The information professions: knowledge, memory, heritage. *Information Research*, *20*(1), paper 655. Retrieved from <http://InformationR.net/ir/20-1/paper655.html>
+
+Focus Areas for ARL (2013). In Association of Research Libraries website. Retrieved from <http://www.arl.org/focus-areas>
+
 Harter, Stephen. 1986. Online Information Retrieval. Orlando, FL: Academic Press.
+
+Huffman, J. (2004). Why environmental scanning works except when you need it. *Business Horizons*, *47*(3), 39-48. Retrieved from <http://www.journals.elsevier.com/business-horizons/>
+
