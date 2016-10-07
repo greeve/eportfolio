@@ -16,3 +16,7 @@ of an information collection and the information collection itself” (Harter, 1
 Information retrieval systems are manifest in both analog and digital forms. 
 
 They are so ubiquitous to the organizational setting of 
+
+## References
+
+Harter, Stephen. 1986. Online Information Retrieval. Orlando, FL: Academic Press.
