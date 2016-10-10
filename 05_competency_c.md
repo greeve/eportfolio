@@ -13,3 +13,9 @@ C. recognize the diversity (such as cultural and economic) in the clientele and 
     - INFO285 W9D1 (notes)
 - LIBR 210
     - LIBR210\_D8.md
+
+
+The third core competency is to ["recognize the diversity (such as cultural and economic) in the clientele and employees of an information organization and be familiar with actions the organization should take to address this diversity"](http://ischool.sjsu.edu/current-students/courses/core-competencies).
+
+Through technological advancements the world is becoming decreasingly isolated and increasingly interconnected.
+
