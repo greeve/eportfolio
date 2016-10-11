@@ -19,3 +19,13 @@ The third core competency is to ["recognize the diversity (such as cultural and 
 
 Through technological advancements the world is becoming decreasingly isolated and increasingly interconnected.
 
+## Evidence
+
+### Evidence 1
+
+### Evidence 2
+
+### Evidence 3
+
+## Conclusion
+
