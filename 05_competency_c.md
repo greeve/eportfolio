@@ -19,6 +19,7 @@ The third core competency is to ["recognize the diversity (such as cultural and 
 
 Through technological advancements the world is becoming decreasingly isolated and increasingly interconnected.
 
+The idea of diverse backgrounds and diverse experiences helps see things in new ways that can help solve problems that weren't understood previously. (See things as they are not as we want them to be)  
 ## Evidence
 
 ### Evidence 1
