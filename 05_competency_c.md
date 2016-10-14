@@ -20,6 +20,17 @@ The third core competency is to ["recognize the diversity (such as cultural and 
 Through technological advancements the world is becoming decreasingly isolated and increasingly interconnected.
 
 The idea of diverse backgrounds and diverse experiences helps see things in new ways that can help solve problems that weren't understood previously. (See things as they are not as we want them to be)  
+
+Diversity can be found in various aspects of clientele or employees within a library or information organization. 
+
+Racial and ethnic diversity are typically thought of when considering different types of diversity. 
+
+Patrons and employees can also be diverse in economic ways.
+
+Libraries and information organizations can also find diversity from its patrons' and employees' educational background. 
+
+A less commonly considered aspect of diversity, but no less important, is a person's personality. 
+
 ## Evidence
 
 ### Evidence 1
