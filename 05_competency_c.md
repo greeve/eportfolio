@@ -17,19 +17,23 @@ C. recognize the diversity (such as cultural and economic) in the clientele and 
 
 The third core competency is to ["recognize the diversity (such as cultural and economic) in the clientele and employees of an information organization and be familiar with actions the organization should take to address this diversity"](http://ischool.sjsu.edu/current-students/courses/core-competencies).
 
-Through technological advancements the world is becoming decreasingly isolated and increasingly interconnected.
-
-The idea of diverse backgrounds and diverse experiences helps see things in new ways that can help solve problems that weren't understood previously. (See things as they are not as we want them to be)  
+As technological advancements and societal progress expand our knowledge about the world and its inhabitants, one becomes increasinly aware of the diversity that exists in the world. 
 
 Diversity can be found in various aspects of clientele or employees within a library or information organization. 
 
-Racial and ethnic diversity are typically thought of when considering different types of diversity. 
+Patrons and employees vary in appearance, ethnicity, cultural backgrounds and norms, immigrant status, religious affiliation, gender, education, employment, economic status, and housing. 
 
-Patrons and employees can also be diverse in economic ways.
+Libraries and information organizations stand in a unique position to understand, embrace, and reflect this diversity. 
 
-Libraries and information organizations can also find diversity from its patrons' and employees' educational background. 
+A core ideal within library and information science is to provide equal access to information for everyone regardless of the differences that exists within society. 
 
-A less commonly considered aspect of diversity, but no less important, is an individual's personality. 
+
+
+The idea of diverse backgrounds and diverse experiences helps see things in new ways that can help solve problems that weren't understood previously. (See things as they are not as we want them to be)  
+
+***
+
+racism; discrimination on the basis of appearance, ethnicity, immigrant status, religious background, sexual orientation, gender identity, gender expression; or barriers to equal education, employment, and housing.
 
 ## Evidence
 
