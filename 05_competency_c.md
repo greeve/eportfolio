@@ -29,7 +29,7 @@ Patrons and employees can also be diverse in economic ways.
 
 Libraries and information organizations can also find diversity from its patrons' and employees' educational background. 
 
-A less commonly considered aspect of diversity, but no less important, is a person's personality. 
+A less commonly considered aspect of diversity, but no less important, is an individual's personality. 
 
 ## Evidence
 
