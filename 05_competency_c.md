@@ -47,16 +47,42 @@ A semester-long strategic planning project in LIBR 204 about an existing public 
 
 The following evidences from previous course work demonstrate an understanding of the diversity among patrons and employees of information organizations as well as actions that can be taken by the organization to reflect that diversity.
 
-1. A discussion posting about the value of diverse backgrounds and experience coming together within professional associations.
+1. A discussion post about the value of diverse backgrounds and experience coming together within professional associations.
 2. An essay about great leadership demonstrating the value of diversity in helping groups accomplish great things.
 3. A discussion posting about meeting the needs of underserved populations. 
 4. A strategic planning project showing the diversity within a public library.
 
-### Evidence 1
+### [LIBR 200 Discussion post: Professional Library Associations]()
+
+Professional Library Associations give information professionals an opportunity to join a community where they can share ideas, solutions, best practices, job experiences, and job openings. 
+
+Researching about these associations and writing a discussion post on the research findings demonstrates the diversity present in a professional association and how this diversity can lead to improving everyone. 
+
+Although the community shares a similar set of professional interests and pursuits the network of information professionals come from diverse cultural and economic backgrounds. 
+
+Associating with information professionals from diverse backgrounds and settings gives opportunities to learn from each other and see new perspectives that were previously unknown or unfamiliar.
+
+Information organizations can encourage their employees to join and participate in a professional library association. 
+
+This encouragement promotes the value and benefits of diversity to the organization's employees and its surrounding community by ensuring more broadly skilled and trained professionals who effectively serve the needs of the community.
 
 ### Evidence 2
 
+An information organization faces the challenge of uniting a diverse group of professionals around a shared vision all can support and trust. 
+
+Great leaders exhibit the qualities that unite a team or organization around a common purpose and vision. 
+
+They put the mission of the organization first before themselves or anything else. 
+
 This assignment looked at the leadership qualities exhibited by Daniel J. Cohen the current executive director of the [Digital Public Library of America (DPLA)](http://www.dp.la).
+
+Cohen has spent most of his professional career on digital and computer technology-focused initiatives and projects. 
+
+Like a film director leading a diverse group of professional staff to create a unique and worthwhile film, Cohen directs projects with "a core belief that large-scale initiatives involving technology are actually *social* projects. That is, successful digital projects mainly involve getting diverse people working together towards an ideal" (Enis, 2013). 
+
+Researching and writing about Cohen shows that diversity can be an asset in accomplishing group projects and tasks rather than an obstacle.
+
+Rather than ignoring diversity that exists within an information organization Cohen respects and embraces that diversity knowing that it will lead to creating a better product and service. 
 
 ### Evidence 3
 
@@ -65,6 +91,12 @@ This assignment looked at the leadership qualities exhibited by Daniel J. Cohen 
 ## Conclusion
 
 Libraries and information organizations stand in a unique position to understand, embrace, and reflect this diversity. 
+
+Similar to Cohen, the work of an information professional is social in nature working with other professionals and with patrons of the organization.
+
+It involves working with people from diverse appearance, age, economic status and backgrounds in a way that acknowledges, respects, and celebrates this diversity. 
+
+When diversity is understood, appreciated, and embraced the service of information professionals demonstrate the value that a group is stronger because of it's diversity not in spite of it.
 
 ## References
 
