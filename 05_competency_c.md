@@ -66,7 +66,7 @@ Information organizations can encourage their employees to join and participate 
 
 This encouragement promotes the value and benefits of diversity to the organization's employees and its surrounding community by ensuring more broadly skilled and trained professionals who effectively serve the needs of the community.
 
-### Evidence 2
+### [LIBR 204 Essay: Good to Great]()
 
 An information organization faces the challenge of uniting a diverse group of professionals around a shared vision all can support and trust. 
 
@@ -84,7 +84,23 @@ Researching and writing about Cohen shows that diversity can be an asset in acco
 
 Rather than ignoring diversity that exists within an information organization Cohen respects and embraces that diversity knowing that it will lead to creating a better product and service. 
 
-### Evidence 3
+### [LIBR 210 Discussion Post: Underserved Populations]()
+
+The visually impaired are an example population that is typically underserved by information organizations. 
+
+Because so much of what an information organization provides is visual in nature this group can go unnoticed and poorly served. 
+
+Visual impairment is a significant obstacle to full participation within society and access to information. 
+
+The visually impaired are part of the diversity among patrons of an information organization's and deserve service that enables their full participation and access to information just as those without any visual impairment. 
+
+Researching and writing this discussion post demonstrated the need for information organizations and their employees to find ways that will better serve the visually impaired. 
+
+Information professionals can better train themselves to learn the resources and technologies that are used by the viaually impaired. 
+
+Supervisors and managers can also recognize this underserved population and ensure that their employees within the organization have all the resources they need to provide high quality service to these patrons. 
+
+A community where all are welcomed and a high level level of service is offered leads to a strong, vibrant, and attractive community. 
 
 ### Evidence 4
 
