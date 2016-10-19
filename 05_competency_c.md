@@ -1,20 +1,5 @@
 # Compentency C
 
-C. recognize the diversity (such as cultural and economic) in the clientele and employees of an information organization and be familiar with actions the organization should take to address this diversity;
-
-- INFO 200
-    - Discussion topic 5 (library associations and exposure to diverse ideas and employees that are in similar work environments; learn from each other's experiences and ideas)
-- INFO 204
-    - Good to Great essay
-    - Strategic Plan
-- INFO 220 (Digital Humanities)
-- INFO 280
-- INFO 285
-    - INFO285 W9D1 (notes)
-- LIBR 210
-    - LIBR210\_D8.md
-
-
 The third core competency is to ["recognize the diversity (such as cultural and economic) in the clientele and employees of an information organization and be familiar with actions the organization should take to address this diversity"](http://ischool.sjsu.edu/current-students/courses/core-competencies).
 
 As technological advancements and societal progress expands our knowledge about the world and its inhabitants one becomes increasinly aware of the diversity that exists in the world. 
@@ -86,23 +71,43 @@ Rather than ignoring diversity that exists within an information organization Co
 
 ### [LIBR 210 Discussion Post: Underserved Populations]()
 
+Visual impairment is a significant obstacle to full participation within society and access to information. 
+
 The visually impaired are an example population that is typically underserved by information organizations. 
 
 Because so much of what an information organization provides is visual in nature this group can go unnoticed and poorly served. 
-
-Visual impairment is a significant obstacle to full participation within society and access to information. 
 
 The visually impaired are part of the diversity among patrons of an information organization's and deserve service that enables their full participation and access to information just as those without any visual impairment. 
 
 Researching and writing this discussion post demonstrated the need for information organizations and their employees to find ways that will better serve the visually impaired. 
 
-Information professionals can better train themselves to learn the resources and technologies that are used by the viaually impaired. 
+Supervisors and managers need to recognize this underserved population and ensure that their employees within the organization have all the resources required to provide high quality service to these patrons. 
 
-Supervisors and managers can also recognize this underserved population and ensure that their employees within the organization have all the resources they need to provide high quality service to these patrons. 
+This includes the time, money, and tools so that information professionals within the organization can develop the skills and training to acquire, implement, and maintain the resources and technologies that are used by the visually impaired. 
 
-A community where all are welcomed and a high level level of service is offered leads to a strong, vibrant, and attractive community. 
+When an information organization addresses the needs of all in the community with a high level of service these underserved populations can change to being well-served patrons that feel included and a part of the community.
 
-### Evidence 4
+### [LIBR 204 Strategic Planning Project](https://mlisefolio.files.wordpress.com/2016/10/group2_part1_strategicplan_libr204.pdf)
+
+There are many ways for an information organization to improve the organization's "cultural competency" (Evans and Ward, 2007, p. 46). 
+
+Strategic planning is a key way that employees and leaders of an organization use to set the priorities and focus of the organization.
+
+A strategic planning project for LIBR 204 involved creating a strategic plan for an existing public library. 
+
+This involved researching the library and its community as well as the process of creating a strategic plan.
+
+This research process made clear the need to identify, understand, and embrace the diversity that exists within the public library and its surrounding community. 
+
+An information organization that doesn't consider the "…values, attitudes, demographics, historic context, and customs of the society in which the organization operates" (Evans and Ward, 2007, p. 46) will fail to see things as they really are and as they really will be. 
+
+A failure to see the truth about an organization's cultural context will lead to the organization failing to serve and meet the needs of its employees, patrons, and community which in turn could lead to the end of the organization itself.
+
+Understanding and embracing this diversity within an organization's missions, vision, and goals shapes the routine decisions and habits of the organization's staff. 
+
+One example of this influence is on acquisitions and collection development. 
+
+An information organization that understands the diversity that exists within its patron's and their needs will provide a diverse collection of books, magazines, music, and video that directly meet patron's needs and provide all patron's with the best possible experience.
 
 ## Conclusion
 
