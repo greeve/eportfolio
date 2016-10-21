@@ -4,3 +4,4 @@ D. apply the fundamental principles of planning, management, marketing, and advo
 
 - LIBR 204
 - LIBR 210
+- LIBR 285
