@@ -45,6 +45,8 @@ Increasing the budget by 10% involved identifying new "revenue centers" (Evans a
 
 ### LIBR 204 Discussion Post: Team and Group Work
 
+Within information organizations the principles related to planning, management, marketing, and advocacy are social in nature. They cannot be accomplished by a single individual. They necessitate working with others in teams and groups. A discussion posting in LIBR 204 illustrates the difference between committees and teams. Committees lack authority and autonomy to make decisions and create a product. In contrast members of a team have “have independence over how they're going to address the problem or issue that they've been given” (Haycock, 2007). With greater autonomy comes greater responsibility and accountability in accomplishing the goals of the team. Multiple classes in the MLIS program provided opportunities to apply these principles. This group experience shows that the keys to a successful team are unity in purpose and individual accountability. 
+
 ### INFO 220 Library Conference Proposal
 
 ### LIBR 204 Discussion Post: Marketing
