@@ -16,7 +16,7 @@ Academic libraries are another specific type of organizational setting. While ac
 
 ## Evidence
 
-The following evidences from previous course work and professional experience demonstrate examples of organizational settings where information professionals practice.
+The following evidence from previous course work and professional experience demonstrate examples of organizational settings where information professionals practice.
 
 1. A reflective essay assignment about professional associations and the [Association of Research Libraries (ARL)](http://www.arl.org).
 2. A semester-long research project developing a strategic plan for a public library. 

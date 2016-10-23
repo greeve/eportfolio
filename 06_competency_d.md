@@ -14,7 +14,7 @@ A sister to marketing is advocacy which is about generating public support for t
 
 ## Evidence
 
-The following evidences from previous course work demonstrate the application of planning, management, marketing, and advocacy. 
+The following evidence from previous course work demonstrate the application of planning, management, marketing, and advocacy. 
 
 	0.	A semester-long research project developing a strategic plan for a public library. 
 	0.	A discussion post about leadership and trust

@@ -53,7 +53,7 @@ A discussion posting in LIBR 200 illustrates how these principles clarify what t
 
 ## Evidence
 
-The following evidences from previous course work demonstrates knowledge of the codes of ethics within information professions and gives examples of complexities that often arise in trying to follow each ethical code. 
+The following evidence from previous course work demonstrates knowledge of the codes of ethics within information professions and gives examples of complexities that often arise in trying to follow each ethical code. 
 
 1. A reference interview assignment following the RUSA guidelines for LIBR 210
 2. A discusion post from LIBR 200 about ethical dilemmas
