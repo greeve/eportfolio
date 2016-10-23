@@ -49,7 +49,11 @@ Within information organizations the principles related to planning, management,
 
 ### INFO 220 Library Conference Proposal
 
+Information organizations have many opportunties for marketing and advocacy. An assignment for a class about Digital Humanities (DH) and the library (INFO 220) addressed an opportunity to market and advocate for the value and benefit that academic libraries can have in the field of DH. The assignment involved creating a conference proposal to explore the contributions that acadmemic libraries can make to DH scholarship. 
+
 ### LIBR 204 Discussion Post: Marketing
+
+New emerging technologies give information organizations new ways to market and advocate for their products and offerings. 
 
 ## Conclusion
 
