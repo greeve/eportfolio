@@ -49,17 +49,26 @@ Within information organizations the principles related to planning, management,
 
 ### INFO 220 Library Conference Proposal
 
-Information organizations have many opportunties for marketing and advocacy. An assignment for a class about Digital Humanities (DH) and the library (INFO 220) addressed an opportunity to market and advocate for the value and benefit that academic libraries can have in the field of DH. The assignment involved creating a conference proposal to explore the contributions that acadmemic libraries can make to DH scholarship. 
+Information organizations have many opportunities for marketing and advocacy. An assignment for a class about Digital Humanities (DH) and the library (INFO 220) addressed an opportunity to market and advocate the value and benefit academic libraries have in the field of DH. DH and DH scholarship refer to a broad range of scholarly activities that explore the intersection of computing and the humanities. 
+
+The assignment involved creating a conference proposal to explore the intersections of academic libraries and DH scholarship. The conference proposal included descriptions of a keynote presentation and three break-out sessions. The keynote presentation focuses on a statement by Charles William Eliot, the president of Harvard University in the late 19th century, that the library is the heart of the university and therefore asks if the academic library is at the heart of DH. The first session looks at how the academic library provides opportunities for learning DH-related skills and techniques through library instruction and teaching. The role of the library in data creation and maintenance is the topic of the second conference session. The third session explores the role the library plays in collaboration between library staff and DH scholars in the local community. Holding a DH conference at an academic library provides the opportunity to market the library and its strengths to other university scholars. The conference proposal also includes a conference advertisement as well as [a video summary of the proposal](http://vimeo.com/164640038). This conference proposal was a hands-on project to apply principles of marketing that generate awareness of the programs, services, and offerings the academic library has to the local scholarly community. 
 
 ### LIBR 204 Discussion Post: Marketing
 
-New emerging technologies give information organizations new ways to market and advocate for their products and offerings. 
+Marketing is used by an information organization to showcase to its community the various services provided as well as stimulate the community's use of these services (Evans and Ward, 2007, p. 96). New emerging technologies give information organizations new ways to market and advocate their products and offerings. Computer networking technologies including the World Wide Web expand an information organization's reach to communities and audiences throughout the world. A discussion post in LIBR 204 asked to evaluate the effective use of marketing by an information organization's website. This discussion post evaluated the [website for the Harold B. Lee Library (HBLL)](https://lib.byu.edu/) at Brigham Young University. The HBLL website was found to be a strong example of effective marketing that helps build the relationship between the library and the university community. The HBLL website accomplishes this by the it's design and visual hierarchy that emphasizes activities relevant to the library's patrons and potential new patrons. Hyperlinks at the top of the main page link to library events and exhibits that tie into the university's focus of life-long learning and service. A large search field is displayed prominently at the top and center of the page that invites finding physical and electronic materials and services offered by the library. Sections on the right and bottom of the page highlight the library's hours of operation as well as library events ands news announcements. This assignment provided the opportunity to see how a library website uses principles of marketing to build its relationship with it's university and scholarly communities. The HBLL website design has successfully marketed and advocated its services and programs as the library has seen an increase in the physical and digital offerings of the library. 
 
 ## Conclusion
 
-Organizations face the brutal fact that they must change and innovate or risk obsolescence and failure (Evans and Ward, 2007, p. 107)
+Information organizations face the brutal fact that they must change and innovate or risk obsolescence and failure. 
 
-As libraries and information organizations have evolved throughout their history from the role of management has also evolved. Focus of these organizations has shifted from a repository/collection focus to a patron/user-centric focus. People for the library vs. library for the people
+This necessity for change and innovation depends heavily upon effective decision making (Evans and Ward, 2007, p. 107, 121). 
+
+Effective decision making within an information organization requires appropriately applying the principles of planning, management, marketing, and advocacy. 
+
+Assignments completed in the SJSU MLIS program offered opportunities to apply principles of planning that set the course and direction of an information organization.
+
+Marketing is defined as "a process of exchange and a way to foster the partnership between the library and its community (Weingand, 1995, p. 296). 
+
 
 ## References
 
@@ -70,10 +79,3 @@ Evans, G. E., & Ward, P. L. (2007). *Management basics for information professio
 Fairholm, M. R., & Fairholm, G. (2000). Leadership amid the constraints of trust. *Leadership & Organization Development Journal*, 21, 102-109. Retrieved from http://www.emerald-library.com
 
 Kotler, P. and Levy, S. J. (1969). Broadening the concept of marketing. *Journal of Marketing*, *33*, 10-15.
-
-***
-
-- LIBR 204
-- LIBR 210
-- LIBR 285
-
