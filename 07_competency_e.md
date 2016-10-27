@@ -35,4 +35,16 @@ These digital record formats enable computers to store, connect, parse, and retr
 
 The online public access catalog (OPAC) is an electronic IR system that can store and retrieve bibliographic information for use by an information organization. 
 
-While originally designed to replace the analog library card catalog system OPACs have developed into sophistocated IR systems with improved search and discovery technologies that information organizations rely on for access to physical and electronic resources.
+While originally designed as an electronic replacement of the analog library card catalog system OPACs have developed into sophistocated IR systems with improved search and discovery technologies that information organizations rely on for access to physical and electronic resources.
+
+Web search engines are another type of electronic IR system. 
+
+The development and now ubiquity of the World Wide Web has afforded the creation of web search engines to help end-users search for information available on the World Wide Web.
+
+Coursework and projects in the SJSU iSchool MLIS program provided opportunities to design, query, and evaluate IR systems. 
+
+Designing an IR system includes
+
+Querying an IR system includes
+
+Evaluating an IR system includes
