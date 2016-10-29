@@ -3,11 +3,14 @@
 
 The sixth competency in the SJSU iSchool MLIS program is to ["use the basic concepts and principles related to the selection, evaluation, organization, and preservation of physical and digital information items;"](http://ischool.sjsu.edu/current-students/courses/core-competencies).
 
+
+Selection and evaluation requires knowing as much about the item itself as possible including the item's historical context and value as well as the condition of the item 
+
 ## Evidence
 
 1. Annotated bibliography about Geographic Information Systems (GIS)
 2. Discussion post about digital preservation
-3. 
+3. INFO 280 manuscript/book projects (evaluation)
 
 ### [LIBR 210: Annotated Bibliography](http://greeve.github.io/lib/biblio/gis/)
 
@@ -15,7 +18,7 @@ The sixth competency in the SJSU iSchool MLIS program is to ["use the basic conc
 
 - D7
 
-### []()
+### [INFO 280 Manuscript and Printed Book Projects]()
 
 ## Conclusion
 
