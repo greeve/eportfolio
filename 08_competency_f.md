@@ -15,7 +15,7 @@ Libraries collect and hold materials to make materials available for use by thei
 
 If a library item is worn out through patron use a new copy is purchased. 
 
-Archives and special collections don't have that luxary as items in the collection may not be available for purchase and replacement. 
+Archives and special collections don't have that luxury as items in the collection may not be available for purchase and replacement. 
 
 Selection and evaluation requires knowing as much about the item itself as possible including the item's historical context and value as well as the condition of the item 
 
@@ -34,7 +34,3 @@ Selection and evaluation requires knowing as much about the item itself as possi
 ### [INFO 280 Manuscript and Printed Book Projects]()
 
 ## Conclusion
-
-- LIBR 210
-- INFO 280?
-- INFO 220?
