@@ -11,7 +11,11 @@ For example, an archive or special collection will select, evaluate, organize, a
 
 Archives and special collections hold materials that are unique, rare, or specialized with the intent to make the materials available in the present as well as for future students and researchers. 
 
-Libraries collect and hold materials for the main purpose of making their collections available for use by their patrons. 
+Libraries collect and hold materials to make materials available for use by their patrons. 
+
+If a library item is worn out through patron use a new copy is purchased. 
+
+Archives and special collections don't have that luxary as items in the collection may not be available for purchase and replacement. 
 
 Selection and evaluation requires knowing as much about the item itself as possible including the item's historical context and value as well as the condition of the item 
 
