@@ -7,11 +7,11 @@ Information organizations select, evaluate, organize, and preserve physical and 
 
 The basic concepts and principles related to the selection, evaluation, organization, and preservation of an item are applied in different ways by an information organization depending on the organization's mission and aims. 
 
-For example, an archive or special collection will emphasize the preservation of an item over the patron's ability to easy find and borrow the item. 
+For example, an archive or special collection will select, evaluate, organize, and preserve materials with a different focus and set of priorities than a library.
 
-In contrast a public library will focus on making items available for circulation at the expense of the item wearing out from patron usage. 
+Archives and special collections hold materials that are unique, rare, or specialized with the intent to make the materials available in the present as well as for future students and researchers. 
 
-The preservation of the item is not a public library's first priority. 
+Libraries collect and hold materials for the main purpose of making their collections available for use by their patrons. 
 
 Selection and evaluation requires knowing as much about the item itself as possible including the item's historical context and value as well as the condition of the item 
 
