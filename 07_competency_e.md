@@ -13,7 +13,7 @@ The fifth competency in the SJSU iSchool MLIS program is to ["design, query, and
 
 Information retrieval (IR) is the process of finding information resources that answer a particular information need by searching a collection of stored data. 
 
-An information retriveval system (IR system) is a system designed to help search and find specific information from one or more stored data repositories. 
+An information retrieval system (IR system) is a system designed to help search and find specific information from one or more stored data repositories. 
 
 Harter (1986) defined an IR system as "a device interposed between a potential end-user of an information collection and the information collection itself" (p. 2).
 
@@ -35,7 +35,7 @@ These digital record formats enable computers to store, connect, parse, and retr
 
 The online public access catalog (OPAC) is an electronic IR system that can store and retrieve bibliographic information for use by an information organization. 
 
-While originally designed as an electronic replacement of the analog library card catalog system OPACs have developed into sophistocated IR systems with improved search and discovery technologies that information organizations rely on for access to physical and electronic resources.
+While originally designed as an electronic replacement of the analog library card catalog system OPACs have developed into sophisticated IR systems with improved search and discovery technologies that information organizations rely on for access to physical and electronic resources.
 
 Web search engines are another type of electronic IR system. 
 
@@ -57,19 +57,19 @@ The aim of an IR system is to return (or retrieve) information from the system t
 
 Evaluating an IR system assesses the effectiveness of the system to meet the information needs of end-users. 
 
-An effective IR system distinguishes between relevant and nonrelevant documents in the IR system's collection of data.
+An effective IR system distinguishes between relevant and non-relevant documents in the IR system's collection of data.
 
 Precision and recall are two basic measures for information retrieval effectiveness (Kerry, Kent, and Berry, 1955). 
 
 Precision is the ratio of relevant items retrieved to all retrieved items. 
 
-It is the number of correct results that match the search query divded by the number of all items returned by the search. 
+It is the number of correct results that match the search query divided by the number of all items returned by the search. 
 
 Recall is the ratio of relevant items retrieved to all relevant items in the IR system's collection.
 
 It is the number of correct results divided by the number of items that should have been returned by the search query.
 
-An IR system with high precision returns more relevant items than nonrelevant items.
+An IR system with high precision returns more relevant items than non-relevant items.
 
 An IR system with high recall means that the system returns a majority of the relevant items.
 
