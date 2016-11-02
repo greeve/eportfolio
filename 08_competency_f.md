@@ -1,6 +1,5 @@
 # Competency F
 
-
 The sixth competency in the SJSU iSchool MLIS program is to ["use the basic concepts and principles related to the selection, evaluation, organization, and preservation of physical and digital information items;"](http://ischool.sjsu.edu/current-students/courses/core-competencies).
 
 Information organizations select, evaluate, organize, and preserve physical and digital information items for a variety of reasons depending on the mission and aims of the organization. 
@@ -15,9 +14,19 @@ Libraries collect and hold materials to make materials available for use by thei
 
 If a library item is worn out through patron use a new copy is purchased. 
 
-Archives and special collections don't have that luxury as items in the collection may not be available for purchase and replacement. 
+Archives and special collections don't always have that luxury as items in the collection may not be available for purchase and replacement. 
 
-Selection and evaluation requires knowing as much about the item itself as possible including the item's historical context and value as well as the condition of the item 
+Selection
+
+Evaluation
+
+Organization
+
+Preservation
+
+Effective selection, evaluation, organization, and preservation requires knowing as much about the item itself as possible. 
+
+This includes knowing the item's historical context, condition, and value.
 
 ## Evidence
 
