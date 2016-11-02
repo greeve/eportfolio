@@ -15,3 +15,5 @@ The tenth competency in the SJSU iSchool MLIS program is to ["describe the funda
 ### [Item 3]()
 
 ## Conclusion
+
+## References

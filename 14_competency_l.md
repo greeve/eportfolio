@@ -15,3 +15,5 @@ The twelfth competency in the SJSU iSchool MLIS program is to ["demonstrate unde
 ### [Item 3]()
 
 ## Conclusion
+
+## References

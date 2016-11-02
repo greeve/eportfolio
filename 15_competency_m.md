@@ -15,3 +15,5 @@ The thirteenth competency in the SJSU iSchool MLIS program is to ["demonstrate o
 ### [Item 3]()
 
 ## Conclusion
+
+## References

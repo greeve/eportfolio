@@ -43,3 +43,5 @@ This includes knowing the item's historical context, condition, and value.
 ### [INFO 280 Manuscript and Printed Book Projects]()
 
 ## Conclusion
+
+## References

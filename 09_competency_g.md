@@ -15,3 +15,5 @@ The seventh competency in the SJSU iSchool MLIS program is to ["demonstrate unde
 ### [LIBR 246 Finding Aid XML Project]()
 
 ## Conclusion
+
+## References

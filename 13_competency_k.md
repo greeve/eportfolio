@@ -15,3 +15,5 @@ The eleventh competency in the SJSU iSchool MLIS program is to ["design instruct
 ### [Item 3]()
 
 ## Conclusion
+
+## References

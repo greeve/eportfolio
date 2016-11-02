@@ -15,3 +15,5 @@ The eighth competency in the SJSU iSchool MLIS program is to ["demonstrate profi
 ### [Item 3]()
 
 ## Conclusion
+
+## References
