@@ -1,6 +1,6 @@
 # Competency F
 
-The sixth competency in the SJSU iSchool MLIS program is to ["use the basic concepts and principles related to the selection, evaluation, organization, and preservation of physical and digital information items;"](http://ischool.sjsu.edu/current-students/courses/core-competencies).
+The sixth competency in the SJSU iSchool MLIS program is to ["use the basic concepts and principles related to the selection, evaluation, organization, and preservation of physical and digital information items"](http://ischool.sjsu.edu/current-students/courses/core-competencies).
 
 Information organizations select, evaluate, organize, and preserve physical and digital information items for a variety of reasons depending on the mission and aims of the organization. 
 
