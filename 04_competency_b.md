@@ -56,6 +56,6 @@ Bates, M. J. (2015). The information professions: knowledge, memory, heritage. *
 
 Focus Areas for ARL (2013). In Association of Research Libraries website. Retrieved from <http://www.arl.org/focus-areas>
 
-Harter, Stephen. 1986. Online Information Retrieval. Orlando, FL: Academic Press.
+Harter, Stephen. 1986. *Online Information Retrieval*. Orlando, FL: Academic Press.
 
 Huffman, J. (2004). Why environmental scanning works except when you need it. *Business Horizons*, *47*(3), 39-48. Retrieved from <http://www.journals.elsevier.com/business-horizons/>
