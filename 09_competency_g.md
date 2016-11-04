@@ -6,7 +6,10 @@ The organization and analysis of information is of great significance to society
 
 Human language is variable, rich, and complex. This richness and complexity brings ambiguity and nuance that can lead to confusion and misunderstanding. Controlled vocabularies refers to a pre-defined set of terms that represent an information item's subject and content. This includes subject headings, classification systems, thesauri, or approved keywords (Lancaster, 1986, 3). Controlled vocabularies and classification systems are designed to remove this complexity by combining similar or related terms and contrasting between homographs (Lancaster, 1986, 7). They organize and structure information items for later retrieval. The lack of controlled vocabularies in classification activities and systems leads to "wasted effort and a certain degree of searching failure" (Cleveland & Cleveland, 1990, 77). The presence of these systems ensures that indexers and searchers of information items use a common set of keywords and terms to consistently and predictably categorize, search, and find information items. 
 
-- Cataloging systems
+Cataloging systems are a specific way to organize and classify information items and materials that leverages existing classification and controlled vocabulary systems.
+
+
+
 - Metadata schemas
 
 ## Evidence
