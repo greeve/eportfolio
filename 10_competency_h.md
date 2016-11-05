@@ -4,15 +4,21 @@ The eighth competency in the SJSU iSchool MLIS program is to ["demonstrate profi
 
 ## Evidence
 
-1. Item 1
-2. Item 2
-3. Item 3
+1. LIBR 210 bibliography project
+2. LIBR 210 library reference guide
+3. LIBR 210 reference tool analysis
+4. INFO 220 Digital Humanities tools analysis
+5. INFO 244 EAD finding aids and search
 
-### [Item 1]()
+### [LIBR 210 Bibliography Project]()
 
-### [Item 2]() 
+### [LIBR 210 Library Reference Guide]()
 
-### [Item 3]()
+### [LIBR 210 Reference Tool Analysis]()
+
+### [INFO 220 Tools Analysis]() 
+
+### [INFO 244 EAD Finding Aids and Search]()
 
 ## Conclusion
 
