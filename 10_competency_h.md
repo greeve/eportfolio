@@ -16,7 +16,9 @@ To stay relevant in a world of technological change information organizations an
 
 Information organizations and their staff are positioned to learn, adopt, and utilize these new technologies better than anyone else (Main, 2008, p. 149). 
 
-New and emerging information and communication technologies include mobile computing devices, 3D printing, virtual reality (VR), blogs, wikis, RSS feeds, podcasts, instant messaging, digital photo services, software as a service, web and computer development languages and tools, mobile apps, social media, vlogs, and mash ups (Main, 2008, p. 149-158). 
+New and emerging information and communication technologies include mobile computing devices, 3D printing, virtual reality (VR), blogs, wikis, RSS feeds, podcasts, instant messaging, digital photo services, software as a service and cloud computing, web and computer development languages and tools, mobile apps, social media, vlogs, and mash ups (Main, 2008, p. 149-158; Rubin, 2016, p. 175-227). 
+
+Identifying, using, and evaluating current and new technologies
 
 ## Evidence
 
