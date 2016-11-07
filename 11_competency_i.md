@@ -4,9 +4,15 @@ The ninth competency in the SJSU iSchool MLIS program is to ["use service concep
 
 Information organizations haven't always been service oriented (Tyckoson, 2008, p. 128). Historically information organizations have focused on building collections and preserving materials in those collections. Patrons of those organizations were predominately a relatively small class of elites within society. The majority of people within society were denied access to these information organiations and their collections due to a variety of factors including economic status and low literacy rates. There was an overall low general demand for personal access to reading materials. Since the late 19th century information organizations and their staff have shifted towards a more service-oriented approach as literacy and education rates increased helping to raise demand for access to reading materials. 
 
-The first meeting of the American Library Association addressed the need for information organizations to provide better reference services for patrons. It was stated in the conference that "[p]ersonal intercourse and relations between librarian and readers are useful in all libraries" (Green, 1876, p. 79). Librarians should attend to the needs of patrons like shop-keepers, inn-keepers, and store clerks strive to serve their customers (Green, 1876, p. 79-80). This defined the core model for librarians and information scientists to connect individuals and groups with accurate, relevant, and appropriate information: 1) Patrons come to the organization seeking answers to their inquries and 2) the organization staff interact with the patrons to help them find answers to their questions. Thus, the value of an information organization,  librarian, or information scientist lies in their ability to help clientele and patrons search, find, and discover information they need. 
+The first meeting of the American Library Association addressed the need for information organizations to provide better reference services for patrons. It was stated in the conference that "[p]ersonal intercourse and relations between librarian and readers are useful in all libraries" (Green, 1876, p. 79). Librarians should attend to the needs of patrons like shop-keepers, inn-keepers, and store clerks strive to serve their customers (Green, 1876, p. 79-80). This defined the core model for librarians and information scientists to connect individuals and groups with accurate, relevant, and appropriate information: 1) Patrons come to the organization seeking answers to their inquries and 2) the organization staff interact with the patrons to help them find answers to their questions. Effectively connecting indivduals and groups with information requires seeing the patron and their information requests as opportunities for service rather than an "irritation at being interrupted" (Finks, 1991, p. 353). Thus, the value of an information organization, librarian, or information scientist lies in their ability to help clientele and patrons search, find, and discover information they need. 
 
+Rangnathan's five laws of library science.
 
+1. books are for use
+2. books are for all
+3. every book to its reader
+4. save the time of the reader
+5. a library is a growing organism
 
 ## Evidence
 
@@ -24,6 +30,10 @@ The first meeting of the American Library Association addressed the need for inf
 
 ## References
 
+Finks, L. W. (1991). Librarianship needs a new code of professional ethics. *American Libraries*, 22(1). 84-92.
+
 Green, S. S. (1876). Personal relations between librarians and readers. *The American Library Journal*, *1*(2). 74-81. Retrieved from https://books.google.com/books?id=0R0DAAAAYAAJ
+
+Ranganathan, S. R. (1964). *The five laws of library science*. Bombay: Asia Publishing House. 
 
 Tyckoson, D. A. (2008). Reference service: The personal side of librarianship. In K. Haycock & B. E. Sheldon (Eds.), *The portable MLIS: Insights form the experts*. (p. 127-146). Westport, Connecticut: Libraries Unlimited.
