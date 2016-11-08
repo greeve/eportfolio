@@ -10,7 +10,7 @@ Information seeking behaviors begin with the information user or patron and thei
 
 The patron recognizes that their knowledge and understanding about a subject is inadequate to achieve some result or goal.
 
-Information seeking behaviors are studied from a variety of perspectives including occupation, role within society, and demographics (Rubin, 2016, p. 373). 
+Information seeking behaviors are studied from a variety of perspectives including employment, role within society, and demographics (Rubin, 2016, p. 373). 
 
 ## Evidence
 
