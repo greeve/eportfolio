@@ -1,14 +1,8 @@
 # Competency J
 
-The tenth competency in the SJSU iSchool MLIS program is to ["describe the fundamental concepts of information-seeking behaviors"](http://ischool.sjsu.edu/current-students/courses/core-competencies).
+The tenth competency in the SJSU iSchool MLIS program is to ["describe the fundamental concepts of information-seeking behaviors"](http://ischool.sjsu.edu/current-students/courses/core-competencies). Information seeking and information behavior are terms referring to human behavior that is so fundamental and commonplace that it can easily go unnoticed. These terms refer to the "common human cycle of needing, looking for, choosing, and using information of some kind" (Case, 2008, p. 35). 
 
-Information seeking and information behavior are terms referring to human behavior that is so fundamental and commonplace that it can easily go unnoticed. 
-
-These terms refer to the "common human cycle of needing, looking for, choosing, and using information of some kind" (Case, 2008, p. 35). 
-
-Information seeking behaviors begin with the information user or patron and their information need (Wilson, 1981). 
-
-The patron recognizes that their knowledge and understanding about a subject is inadequate to achieve some result or goal.
+Information seeking behaviors begin with the information user or patron and their information need (Wilson, 1981). The patron recognizes that their knowledge and understanding about a subject is inadequate to achieve some result or goal. They tend to seek out informal reference sources more often than formal sources and will be satisfied with the first appropriate solution to their query rather than trying to find the best answer. Quality is often sacrificed for expediency and convenience. The information seeking process is organic and can change between information queries as well as during the information seeking process and "is rarely a simple, linear process that comes to complete fruition" (Case, 2008, p. 40). 
 
 Information seeking behaviors are studied from a variety of perspectives including employment, role within society, and demographics (Rubin, 2016, p. 373). 
 
