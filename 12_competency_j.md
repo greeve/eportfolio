@@ -8,7 +8,7 @@ Information seeking behaviors are studied from a variety of perspectives includi
 
 ## Evidence
 
-Coursework and projects within the SJSU MLIS program provide opportunities to demonstrate an understanding of the concepts of information seeking behaviors.
+The following coursework completed within the SJSU MLIS program demonstrates an understanding of the concepts of information seeking behaviors. 
 
 1. Item 1
 2. Item 2
