@@ -43,6 +43,24 @@ GIS in an information organization setting enables patrons or clientele to searc
 
 ### [INFO 244: Database Search Assignments]()
 
+In an online searching class (INFO 244) a series of assignments were completed that gave hands-on experience querying various information retrieval systems. 
+
+The assignments required searching against various databases available in ProQuest. 
+
+Each assignment contains an information request from a hypothetical researcher that helps shape the information query and keywords. 
+
+The first assignment involved performing searches for information related to health and medicine and included searches in the MEDLINE database.
+
+The information request included finding the five best results for results of clinical trials malaria vaccines tested on humans. 
+
+The second assignment involved finding five citations of articles matching an information request in the aquatic sciences looking for strategies to manage the impact of climate change on freshwater lake ecosystems.
+
+These citations needed to include figures or tables as part of the article. 
+
+The third assignment required finding five relevant citations of editorials or letters to the editor from American minority newspapers about Jesse Owens' participation and subsequent snubbing in the 1936 Olympics. 
+
+The fourth assignment involved searching for miscellaneous pieces of information using the Web of Science search platform. 
+
 ## Conclusion
 
 ## References
