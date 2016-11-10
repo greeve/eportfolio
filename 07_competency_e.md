@@ -1,14 +1,5 @@
 # Competency E
 
-E. design, query, and evaluate information retrieval systems;
-
-- LIBR 202
-- LIBR 240
-- INFO 244
-- LIBR 246 (XML)
-- LIBR 246 (drupal)
-- LIBR 247
-
 The fifth competency in the SJSU iSchool MLIS program is to ["design, query, and evaluate information retrieval systems"](http://ischool.sjsu.edu/current-students/courses/core-competencies). Information retrieval (IR) is the process of finding information resources that answer a particular information need by searching a collection of stored data. An information retrieval system (IR system) is a system designed to help search and find specific information from one or more stored data repositories. Harter (1986) defined an IR system as "a device interposed between a potential end-user of an information collection and the information collection itself" (p. 2). 
 
 IR systems are composed of two basic components: 1) the database that stores the data and 2) a mechanism for retrieving information out of the database. The term database refers to the structured set of data stored in a way that facilitates information retrieval. IR systems can be analog or digital in nature. The library can be considered a type of IR system (Rubin, 2010, p. 127). Printed indexes and bibliographies are other examples of analog IR systems. Since the late 20th century computer and networking technologies have replaced many analog IR systems with digital or electronic systems. Bibliographic records have been converted into digital formats including the MARC (machine readable cataloging)  and BIBFRAME (Bibliographic Framework) record formats. These digital record formats enable computers to store, connect, parse, and retrieve bibliographic information in more automated, efficient ways than possible using analog formats. The online public access catalog (OPAC) is an electronic IR system that can store and retrieve bibliographic information for use by an information organization. While originally designed as an electronic replacement of the analog library card catalog system OPACs have developed into sophisticated IR systems with improved search and discovery technologies that information organizations rely on for access to physical and electronic resources. Web search engines are another type of electronic IR system. The development and now ubiquity of the World Wide Web has afforded the creation of web search engines to help end-users search for information available on the World Wide Web.
@@ -19,15 +10,38 @@ Evaluating an IR system assesses the effectiveness of the system to meet the inf
 
 ## Evidence
 
-1. Item 1
-2. Item 2
-3. Item 3
+The following evidence from previous course work demonstrate experience in designing, querying, and evaluating information retrieval systems. 
 
-### [Item 1]()
+1. A reflective essay about information retrieval systems
+2. A two-part database design group project
+3. A research paper about Geographic Information Systems (GIS) and information retrieval 
+4. A series of assignments to practice querying various academic databases
 
-### [Item 2]() 
+### [LIBR 200: Reflective Essay on Information Retrieval Systems]() 
 
-### [Item 3]()
+To effectively design, use, and evaluate information retrieval systems requires a basic knowledge and understanding of information retrieval systems and their value within library and information science. A reflective essay exploring the definition of an information retrieval system and various examples of analog and digital systems helped establish this basic level of understanding and knowledge. The essay also provided examples of information retrieval systems that were familiar from previous experience and use. This includes a library catalog and library classification system, the phone book, printed indexes and bibliographies, internet search engines, online shopping websites, online data portals and data warehouses, and online mapping websites like MapQuest and Google Maps. Knowing and using a variety of information retrieval systems prepares the librarian or information scientist to answer the information needs of patrons and clientele of their organizations.
+
+### [LIBR 202: Database Design Group Project]()
+
+A two-part group project explored designing information retrieval systems. The first part of the project required creating a hypothetical collection of items useful to a specified user group and set of information needs. A database table was created to model the information stored for each item or record in the collection. The collection's unit of description was chosen for how users would search the collection's database. The group decided on creating a database to store metadata about a collection of Star Trek action figures manufactured by the fictional ACME TOY company. The first step in designing an information retrieval system is to identify the purpose of the retrieval system. This also included describing the main intended user group of the retrieval system and their information needs. A set of possible questions was formulated for potential users of the database. Based on the user group and their needs the database structure was designed. Field names and field types were chosen to capture the essential fields of data for each item in the collection. After determining the names, types, rules, and standards for each field online database software (i.e. WebData Pro) was used to create a database following this record and field structure. A set of hypothetical data was created and entered into the database. This allowed the group to test searching the database to determine how well the database met the needs of the intended user group. 
+
+The second part of the project involved evaluating another group's database design project from the class. Evaluting the database design included answering the following questions:
+
+- Is the database design appropriate for the collection?
+- How well do they provide for consistent description of items?
+- Is the design sufficient to meet the users' needs?
+- How well do they accommodate exceptions?
+- Were the design rules adequately implemented and enforced in their database implementation?
+
+In addition to providing experience evaluating an information retrieval system, the second part of this project helped understand what is required to effectively design a retrieval system. A well designed information retrieval system has a clear intent and purpose. Items or records in the system are structured and described with useful information that meets the needs of the system's intended user group. The structure of the database also needs to be robust in accounting for exceptions and variations in the data that is modeled in the retrieval system. Effectively designed information retrieval systems make it easy for data entry as well as for users of the system to find information that matches their needs. 
+
+### [LIBR 202: Research Paper about GIS and Information Retrieval]()
+
+Living in a information age with advanced digital computing and networking technologies there are massive amounts and varieties of information created each day. One type of digital information that continues to increase in significance and value is geospatial information (also referred to as spatial or geographic information). Geospatial information is information that is tied to a physical location on earth. A Geographic Information System (GIS) is a collection of components designed to create, manage, store, and retrieve geospatial information. A GIS enables spatial analyses and data visualizations of the geographic data within the system. Understanding and evaluting geographic information systems makes it possible for librarians or information scientists to better meet the geographic information needs of their patrons and clientele. 
+
+GIS in an information organization setting enables patrons or clientele to search, find, and visualize digital maps for personal use and edification. It also provides opportunities for digital scholarship by students and faculty within an academic community setting that includes the need for exploring, analyzing, and visualizing geographic data. Information organizations can also use GIS to make their metadata repositories spatially aware where metadata contains geospatial information. For example, a library catalog that contains geographic information within bibligraphic entries could utilize GIS to help patrons locate items spatially within the library. Another application of GIS is on the World Wide Web (WWW) in the form of web mapping and web mapping services. There are also vast online repositories and portals of geographic data that vary widely in their collection, description, and organization of that data. The disparity in geographic metadata quality prevents users from finding the data they need to best answer their information query. The ability to identify and evaluate GIS as a service provided by an information organization and as an online tool for exploring and connecting geographic data within the context of the WWW is a skill needed by current librarians or information scientists. Evaluating GIS as an information retrieval system within these contexts provides opportunities to determine how GIS can best meet the information needs of the 21st century user. 
+
+### [INFO 244: Database Search Assignments]()
 
 ## Conclusion
 
