@@ -1,10 +1,14 @@
 # Competency J
 
-The tenth competency in the SJSU iSchool MLIS program is to ["describe the fundamental concepts of information-seeking behaviors"](http://ischool.sjsu.edu/current-students/courses/core-competencies). Information seeking and information behavior are terms referring to human behavior that is so fundamental and commonplace that it can easily go unnoticed. These terms refer to the "common human cycle of needing, looking for, choosing, and using information of some kind" (Case, 2008, p. 35). 
+The tenth competency in the SJSU iSchool MLIS program is to ["describe the fundamental concepts of information-seeking behaviors"](http://ischool.sjsu.edu/current-students/courses/core-competencies). Information seeking and information behavior are terms referring to human behavior that is so fundamental and commonplace that it can easily go unnoticed. These terms refer to the "common human cycle of needing, looking for, choosing, and using information of some kind" (Case, 2008, p. 35). Assessing an individual's information need and helping individuals meet those needs is part of the role of a librarian or information scientist. 
 
-Information seeking behaviors begin with the information user or patron and their information need (Wilson, 1981). The patron recognizes that their knowledge and understanding about a subject is inadequate to achieve some result or goal. They tend to seek out informal reference sources more often than formal sources and will be satisfied with the first appropriate solution to their query rather than trying to find the best answer. Quality is often sacrificed for expediency and convenience. The information seeking process is organic and can change between information queries as well as during the information seeking process and "is rarely a simple, linear process that comes to complete fruition" (Case, 2008, p. 40). 
+Information seeking behaviors begin with the information user or patron and their information need (Wilson, 1981). The patron recognizes that their knowledge and understanding about a subject is inadequate to achieve some result or goal. They tend to seek out informal reference sources more often than formal sources and will be satisfied with the first appropriate solution to their query rather than trying to find the best answer. Quality is often sacrificed for expediency and convenience (Rubin, 2016, p. 378; Case, 2008, p. 37-38). The information needs of individuals vary across these strata and occur within specific contexts both internal (e.g. memories, thoughts, motivations, and personality) and external (e.g. profession, family, and friends). The information seeking process is organic and can change between information queries as well as during the information seeking process. It "is rarely a simple, linear process that comes to complete fruition" (Case, 2008, p. 40). 
 
-Information seeking behaviors are studied from a variety of perspectives including employment, role within society, and demographics (Rubin, 2016, p. 373). 
+Information seeking behaviors are studied from a variety of perspectives including employment, role within society, and demographics (Rubin, 2016, p. 373). Many researchers have identified various ways to model information seeking. One study represented the information seeking process as six stages: initiation, selection, exploration, formulation, collection, and presentation (Kuhlthau, 1991, p. 367). 
+
+The rise of computer and internet technologies have made a major impact on individuals' information seeking behaviors. The massive amounts of information available on the World Wide Web (WWW), the WWW's chaotic and changing nature. 
+
+make it difficult 
 
 ## Evidence
 
@@ -30,6 +34,8 @@ The result of a more truly user-oriented, innovative, experimental information p
 ## References
 
 Case, D. O. (2008). Information seeking. In K. Haycock & B. E. Sheldon (Eds.), *The portable MLIS: Insights form the experts*. (p. 35-41). Westport, Connecticut: Libraries Unlimited.
+
+Kuhlthau, C. C. (1991). Inside the search process: Information seeking from the user's perspective. *Journal of the American Society for Information Science*, *42*(5), 361-371.
 
 Rubin, R. E. (2016). *Foundations of library and information science*. Chicago: Neal-Schuman.
 
