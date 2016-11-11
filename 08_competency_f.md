@@ -37,6 +37,8 @@ Computing technologies will continue to improve and reduce in cost. What was pos
 
 Fundamental to any preservation work is deeply understanding the nature of the item that is considered for preservation. Two projects that examined and evaluated a medieval manuscript and printed book gave deep experience and understanding of this preservation principle. 
 
+Another principle, these projects were a form of digital preservation by their very nature. They took analog media (a manuscript and printed book) and analyzed them using a new digital format and medium (the professor would mention this about these projects). 
+
 ### [LIBR 246 Digital Library Website Analysis]()
 
 ## Conclusion
