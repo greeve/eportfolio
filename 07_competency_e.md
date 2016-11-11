@@ -12,10 +12,10 @@ Evaluating an IR system assesses the effectiveness of the system to meet the inf
 
 The following evidence from previous course work demonstrate experience in designing, querying, and evaluating information retrieval systems. 
 
-1. A reflective essay about information retrieval systems
-2. A two-part database design group project
-3. A research paper about Geographic Information Systems (GIS) and information retrieval 
-4. A series of assignments to practice querying various academic databases
+1. Reflective essay about information retrieval systems
+2. Two-part database design group project
+3. Research paper about Geographic Information Systems (GIS) and information retrieval 
+4. Series of assignments to practice querying various academic databases
 
 ### [LIBR 200: Reflective Essay on Information Retrieval Systems]() 
 
