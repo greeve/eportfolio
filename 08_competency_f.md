@@ -34,7 +34,7 @@ If "age of loss" is defined as not being able to preserve everything then the hi
 
 Computing technologies will continue to improve and reduce in cost. What was possible techincally 20 years previously has radically changed compared to the present state of digital and computing technologies. The real challenge in digital preservation isn't technical in nature but rather a challenge of resources: time, money, and personnel. 
 
-### [INFO 280 Manuscript and Printed Book Projects]()
+### [INFO 280 Manuscript and Printed Book Projects](http://greeve.github.io/library/scrivener/)
 
 Fundamental to any preservation work is deeply understanding the nature of the item that is considered for preservation. Two projects provided opportunities to deeply examine and consider physical information items within a new digital context. To examine the items in detail required either gaining access to a physical copy the item or finding a high-quality digital scan. Bibliographies were also authored for both projects of sources used to examine and explain the items. 
 
@@ -46,6 +46,12 @@ Deeply examining an information item's background, historical context, authorshi
 
 ## Conclusion
 
+Library and information science encompasses efforts by information professionals to "select, preserve, and make available primary sources that document the activities of institutions, communities, and individuals" (SAA Council, 2011). Each of these activities is shaped the by the needs of current and potential users. Coursework completed in the SJSU MLIS program provide experience with each of these core components of library and information science. Trained information professionals have a duty and responsibility to society, local communities, and patrons in applying these principles so that information items are available for current and future generations. 
+
+> "Since ancient times, archives have afforded a fundamental power to those who control them. In a democratic society such power should benefit all members of the community. The values shared and embraced by [information professionals] enable them to meet these obligations and to provide vital services on behalf of all groups and individuals in society" (SAA Council, 2011).
+
+Selecting, evaluating, organizing, and preserving information items extends the life of the item and its metadata. This in turn benefits society by preserving significant items related to cultural heritage, extending the individual, group, and institutional memory, and serving a diverse audience of scholars and interesting individuals for their personal sudy and life-long learning. 
+
 ## References
 
 Cox, R. J. (1992). *Managing institutional archives: Foundational principles and practices*. New York: Greenwood Press.
@@ -55,5 +61,7 @@ Katz, W. A. (1980). *Collection development: The selection of materials for libr
 Library of Congress. (2016). *Fran Berman: Digital preservation pioneer*. Retrieved from <http://www.digitalpreservation.gov/series/pioneers/berman.html>
 
 McDonald, J. (2005). The wild frontier ten years on. In J. McLeod & C. Hare (Eds.), *Managing electronic records* (p. 1-17). London: Facet Publishing.
+
+SAA Council. (2011). *SAA Core Values Statement and Code of Ethics*. Retrieved from <http://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics>
 
 Stephens, D. O. (2005). Legal issues. In J. McLeod & C. Hare (Eds.), *Managing electronic records* (p. 101-114). London: Facet Publishing.
