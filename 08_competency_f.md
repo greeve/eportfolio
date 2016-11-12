@@ -8,10 +8,11 @@ The selection process of physical or digital items for an information organizati
 
 ## Evidence
 
+The following evidence from previous course work demonstrate experience in using the basic concepts and principles related to the selection, evaluation, organization, and preservation of physical and digital information items.
+
 1. Annotated bibliography about Geographic Information Systems (GIS)
 2. Discussion post about digital preservation
 3. INFO 280 manuscript/book projects (evaluation)
-4. LIBR 246 digital library website analysis
 
 ### [LIBR 210: Annotated Bibliography](http://greeve.github.io/lib/biblio/gis/)
 
@@ -42,8 +43,6 @@ The first project explored a medieval codex created in the late 15th century. Th
 The second project explored a first edition of a printed book from the 19th century. This book, entitled *The Book of Mormon*, was a religious text written by Joseph Smith, Jr. and published by E. B. Grandin in 1830. This project examined the context and content of the printed work by identifying the title on the spine and title page (if present), the author and their background, the origin story of the book, and details about the publisher, printer, and place of publication. The phyisical description of the item was also identified which included the item's size and format, paper, foliation and pagination, printer's device (if present), type and typeface used, color printing (if any), binding, and fly leaves. 
 
 Deeply examining an information item's background, historical context, authorship, and physical anatomy contributes to evaluating and selecting items for physical or digital preservation. These two particular information items had already been digitally preserved by making high-quality image scans of the works. Making these scans available on the World Wide Web (WWW) enables continued scholarship to better understand these works and their value and role within our cultural heritage. These two projects were another form of digital preservation that took analog media and anaylzed them using a new digital format and medium.
-
-### [LIBR 246 Digital Library Website Analysis]()
 
 ## Conclusion
 
