@@ -35,15 +35,13 @@ Computing technologies will continue to improve and reduce in cost. What was pos
 
 ### [INFO 280 Manuscript and Printed Book Projects]()
 
-Fundamental to any preservation work is deeply understanding the nature of the item that is considered for preservation. Two projects provided opportunities to deeply examine and consider physical information items within a new digital context. 
+Fundamental to any preservation work is deeply understanding the nature of the item that is considered for preservation. Two projects provided opportunities to deeply examine and consider physical information items within a new digital context. To examine the items in detail required either gaining access to a physical copy the item or finding a high-quality digital scan. Bibliographies were also authored for both projects of sources used to examine and explain the items. 
 
-The first project explored a medieval manuscript created in the 16th century.
+The first project explored a medieval codex created in the late 15th century. This codex, entitled *De divi Mathiae regis laudibus rebusque gestos dialogue*, contained a dialogue on the deeds of King Matthias of Hungary. The examination of the medieval codex involved exploring the codex's background and context, physical description, and the codex's script or handwritten features. To understand the codex's background required researching the historical context surrounding the codex, its author (or authors), and the codex's origins and ownership (or provenance). The physical description included identifying the codex's size, binding, writing support material, collation, ink, rubrication and historiated initials, and decoration. Using a high quality digital scan of the codex enabled examining the codex and its pages in great detail. Examining the script included identifying the handwriting style, incipit (or an ornate introduction in the text), explicit (or the page with the final words for the work), subscriptio or colophon, and marginalia (marks made by the authors in the margins of the pages). 
 
-The second project explored a printed book from the 19th century. 
+The second project explored a first edition of a printed book from the 19th century. This book, entitled *The Book of Mormon*, was a religious text written by Joseph Smith, Jr. and published by E. B. Grandin in 1830. This project examined the context and content of the printed work by identifying the title on the spine and title page (if present), the author and their background, the origin story of the book, and details about the publisher, printer, and place of publication. The phyisical description of the item was also identified which included the item's size and format, paper, foliation and pagination, printer's device (if present), type and typeface used, color printing (if any), binding, and fly leaves. 
 
-***
-
-Another principle, these projects were a form of digital preservation by their very nature. They took analog media (a manuscript and printed book) and analyzed them using a new digital format and medium (the professor would mention this about these projects). 
+Deeply examining an information item's background, historical context, authorship, and physical anatomy contributes to evaluating and selecting items for physical or digital preservation. These two particular information items had already been digitally preserved by making high-quality image scans of the works. Making these scans available on the World Wide Web (WWW) enables continued scholarship to better understand these works and their value and role within our cultural heritage. These two projects were another form of digital preservation that took analog media and anaylzed them using a new digital format and medium.
 
 ### [LIBR 246 Digital Library Website Analysis]()
 
