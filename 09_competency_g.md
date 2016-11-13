@@ -19,14 +19,34 @@ Metadata schemas are standards adopted by information organizations for describi
 Coursework and projects in the SJSU MLIS program provided practical experience to learn the basic principles of organizing information and information items. 
 
 1. Controlled vocabulary group project
-2. Cataloging project
-3. Finding Aid (EAD) XML Project
+2. Cataloging exercises and assignments
+3. Metadata schema projects: Finding Aid (EAD) and Text Encoding Initiative (TEI) XML
 
 ### [LIBR 247 Controlled Vocabulary Group Project]()
 
-### [LIBR 248 Cataloging Project]()
+The final project in LIBR 247 required constructing a thesaurus within a given knowledge domain. The project consisted of three group members. The first steps in the thesaurus construction process included identifying the thesaurus' target audience and narrowing the knowledge domain to something specific. The group decided to create a thesaurus within the knowledge domain of container vegetable gardening targeted to beginning, hobbyist, and urban gardeners growing vegetables in containers. This narrow focus helps to manage the scope of the terms included in the thesaurus so that term selection isn't too broad but the subject area isn't so narrow that the thesaurus lacks enough terms. 
 
-### [LIBR 246 Finding Aid XML Project]()
+Next, terms for the thesaurus were extracted from online and print literature within the knowledge domain and entered into a spreadsheet. The initial list was over 400 extracted terms. Terms that didn't fall within the knowledge domain, duplicate terms, or non-relevant terms mere removed from the list. The remaining terms were put into facets and the relationships between facets and terms were analyzed. Scope notes were added to terms from a variety of sources to help clarify and limit the definition of terms. 
+
+The final thesaurus consists of 110 preferred terms. The boundaries of the thesaurus' domain was limited to vegetables, environment, pests, diseases, beneficial insects, and plant care. These are the central subject areas used to categorize and organize all the terms. Each of these facets had their own sub-facets to further categorize and classify the terms and their relationships between each other. The final thesaurus is presented using classified and alphabetical indices for the terms. The construction of the thesaurus and its organization is designed to assist users to find the terms helpful for their research. One example organizational feature are the use and UF reference are included in the thesaurus to direct a user to the correct term. Another example organizational feature is the use of broad and narrow terms to create an appropriate hierarchy across the thesaurus. This project validates the adage that constructing a thesaurus or controlled vocabulary is an art as well as a science.
+
+### [LIBR 248 Cataloging Exercises and Assignments]()
+
+MARC is a machine-readable cataloging record stanard used by libraries and information organizations for cataloging information items.
+
+This format stores metadata about an information item including information such as author, subject, title, publishing location and copyright date. 
+
+These pieces of metadata about an item are like digital signposts that indicate to a computer or user information about the information item. 
+
+Cataloging exercises and assignments in LIBR 248 provided practical experience understanding the MARC bibliographic standard.
+
+These exercises and assignments taught the field and tag numbers most frequently used by catalogers and other information professionals as well as the general MARC syntax for each field. 
+
+Each assignment required cataloging books of varying genres. 
+
+This experience helped demonstrate the challenges and nuances involved in making decisions about how to best represent the item's bibliographic metadata in MARC format. 
+
+### [LIBR 246 Metadata Schema Projects]()
 
 ## Conclusion
 
