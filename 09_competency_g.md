@@ -22,7 +22,7 @@ The following evidence from previous course work demonstrate using and understan
 2. Cataloging exercises and assignments
 3. Metadata schema projects: Finding Aid (EAD) and Text Encoding Initiative (TEI) XML
 
-### [LIBR 247 Controlled Vocabulary Group Project]()
+### [LIBR 247 Controlled Vocabulary Group Project](https://mlisefolio.files.wordpress.com/2016/11/libr247_final.pdf)
 
 The final project in LIBR 247 required constructing a thesaurus within a given knowledge domain. The project consisted of three group members. The first steps in the thesaurus construction process included identifying the thesaurus' target audience and narrowing the knowledge domain to something specific. The group decided to create a thesaurus within the knowledge domain of container vegetable gardening targeted to beginning, hobbyist, and urban gardeners growing vegetables in containers. This narrow focus helps to manage the scope of the terms included in the thesaurus so that term selection isn't too broad but the subject area isn't so narrow that the thesaurus lacks enough terms. 
 
@@ -30,7 +30,7 @@ Next, terms for the thesaurus were extracted from online and print literature wi
 
 The final thesaurus consists of 110 preferred terms. The boundaries of the thesaurus' domain was limited to vegetables, environment, pests, diseases, beneficial insects, and plant care. These are the central subject areas used to categorize and organize all the terms. Each of these facets had their own sub-facets to further categorize and classify the terms and their relationships between each other. The final thesaurus is presented using classified and alphabetical indices for the terms. The construction of the thesaurus and its organization is designed to assist users to find the terms helpful for their research. One example organizational feature are the use and UF reference are included in the thesaurus to direct a user to the correct term. Another example organizational feature is the use of broad and narrow terms to create an appropriate hierarchy across the thesaurus. This project validates the adage that constructing a thesaurus or controlled vocabulary is an art as well as a science.
 
-### [LIBR 248 Cataloging Exercises and Assignments]()
+### [LIBR 248 Cataloging Exercises and Assignments](https://mlisefolio.files.wordpress.com/2016/11/libr248_cataloging_exercises_assignments.pdf)
 
 MARC is a machine-readable cataloging record stanard used by libraries and information organizations for cataloging information items. This format stores metadata about an information item including information such as author, subject, title, publishing location and copyright date. These pieces of metadata about an item are like digital signposts that indicate to a computer or user information about the information item. 
 
@@ -38,7 +38,7 @@ Cataloging exercises and assignments in LIBR 248 provided practical experience u
 
 Exercises and assignments also introduced concepts of authority control records. When describing an information item or creating metadata about that item there are various pieces of information that could have various forms. Names, titles, subject headings, and geographic place names are example fields that if left freeform would lack consistency and data integrity. Authority control records establish recognized and standard forms for field values. The [*Library of Congress Name Authority File*](http://authorities.loc.gov/help/name-auth.htm) and the [*Library of Congress Subject Headings*](http://authorities.loc.gov/help/subj-auth.htm) are used to standardize on the content of name fields and subject heading fields. Like controlled vocabulary design and construction cataloging is as much an art as it is a science. 
 
-### [LIBR 246 Metadata Schema Projects]()
+### [LIBR 246 Metadata Schema Projects](http://greeve.github.io/static/media/libr246_xml_projects.zip)
 
 Like data, metadata comes in many shapes and sizes. There are many metadata formats and standards to help provide structure and organization to how data is described and organized. XML (extensible markup language) is a metalanguage that gives the ability to define a markup language used to describe data. Many metadata formats manifest themselves in documents adhering to the XML specification. [Text Encoding Initiative (TEI)](http://www.tei-c.org) and [Encoded Archival Description (EAD)](http://www.loc.gov/ead/) are example metadata formats (or schemas) that are used to describe information. TEI is a specification for digitally representing texts in digital form. EAD is a specification for digitally describing and encoding archival finding aids. 
 
