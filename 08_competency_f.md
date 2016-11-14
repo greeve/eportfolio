@@ -14,7 +14,7 @@ The following evidence from previous course work demonstrate experience in using
 2. Discussion post about digital preservation
 3. INFO 280 manuscript/book projects (evaluation)
 
-### [LIBR 210: Annotated Bibliography](http://greeve.github.io/lib/biblio/gis/)
+### [LIBR 210: Annotated Bibliography](http://greeve.github.io/library/biblio/gis/)
 
 This assignment required creating an annotated bibliography. An annotated bibliography is an organized list of bibliographic entries for information items with a brief description and assessment to justify including the item in a library collection. The annotated bibliography can be used by staff of an information organization to guide their collection development decisions so that the organization better serves the needs of its patrons or clientele. 
 
