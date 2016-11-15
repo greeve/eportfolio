@@ -12,15 +12,29 @@ Librarians or information scientists answer questions and information requests f
 
 Coursework completed in the SJSU MLIS program demonstrated how to connect clientele or patrons to accurate, relevant, and appropriate information.  
 
-1. Item 1
-2. Item 2
-3. Item 3
+1. Library reference transactions
+2. Library reference resources mini activities
+3. Serving underserved populations discussion response
 
-### [Item 1]()
+### [LIBR 210 Library Reference Transactions]()
 
-### [Item 2]() 
+1. Face-to-face Library Reference Transaction
+2. Phone Call Library Reference Transaction
+3. Email Library Reference Transaction
+4. Online Chat Library Reference Transaction
 
-### [Item 3]()
+### [LIBR 210 Reference Resources Mini Activities]()
+
+1. Genealogical Reference Resources
+2. Search Engines and Search Strategies
+3. Dictionaries, Encyclopedias, Etc. 
+4. Finding Facts
+5. Law, Health, and Business Sources
+6. E-resources on "transformational leadership"
+7. Biographical Information, Government Publications, and Web 2.0
+8. Reader’s Advisory and Sources, Children and Young Adults, and Science
+
+### [LIBR 210 Discussion Post: Serving Underserved Populations]()
 
 ## Conclusion
 
