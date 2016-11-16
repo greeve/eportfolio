@@ -42,11 +42,11 @@ Successfully connecting individuals or groups with accurate, relevant, and appro
 7. Biographical Information, Government Publications, and Web 2.0
 8. Reader’s Advisory and Sources, Children and Young Adults, and Science
 
-These mini activities introduced information resources that can be used to help answer future patrons or clientele reference queries. 
-
-Just like a water well without water is of no value to the thirsty traveler, a librarian or information scientist lacking information resources and answers is of little value to the inquiring patron. 
+These mini activities introduce information resources that can be used to help answer future patrons or clientele reference queries. Each mini activity includes specific information questions that could only be answerd by hands-on use of various databases, tools, techniques, and resources. Some of the mini activity exercises required reflecting on the process taken to find an answer to the information query. Being aware of the process and path one takes to find answers to information questions helps embed these resources in the minds of the librarian or information science for later retrieval in time of need. Just like a water well without water is of no value to the thirsty traveler, a librarian or information scientist lacking information resources and answers is of little value to the inquiring patron. Knowing the information resources available for a variety of knowledge domains prepares the librarian or information scientist to connect patrons and clientele to accurate, relevant, and appropriate information.
 
 ### [LIBR 210 Discussion Post: Serving Underserved Populations]()
+
+A key to connecting accurate, relevant, and appropriate information to individuals and groups is knowing and understanding the needs of individuals and groups asking for information. 
 
 ## Conclusion
 
