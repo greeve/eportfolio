@@ -18,12 +18,20 @@ Coursework completed in the SJSU MLIS program demonstrated how to connect client
 
 ### [LIBR 210 Library Reference Transactions]()
 
+Library reference transactions are direct ways librarians or information scientists connect individuals or groups with accurate, relevant, and appropriate information. The [ALA RUSA (Reference and User Services Association) Guidelines](http://www.ala.org/rusa/resources/guidelines/guidelinesbehavioral) identifies and recommends "observable behavioral attributes that could be correlated with positive patron perceptions of reference librarian performance" (RUSA, 2013). Aspects of a reference interview to watch include visibility and approachability, interest, listening and inquiring, searching, and following-up. The success of the patron being connected to the information they need in a positive, uplifting way depends upon the approach the librarian takes to the reference interview. A course on reference librarianship provided four opportunities to interact with a librarian using different modes of communication to observe the application of the RUSA guidelines:
+
 1. Face-to-face Library Reference Transaction
 2. Phone Call Library Reference Transaction
 3. Email Library Reference Transaction
 4. Online Chat Library Reference Transaction
 
+Interacting with the reference librarian and asking a question using these different communication modes provided a way to see how the behavior of the librarian influenced how well they were able to connect the patron to the correct information. 
+
+The face-to-face interview was a little lacking in the librarian's interest and approachability. Although they answer the information request a lack of engagement resulted in a feeling of uncertainty that they provided all the information they could towards helping answer the question. A reference interview over the phone showed the challenge presented with phone reference interviews. Relying solely upon audio queues and signals makes it more difficult for the librarian to gauge whether they are connecting the patron to information that meets their information needs. A phone call to a local public library lacked the appropriate inquiry and follow-up from the librarian to make sure that the original information need was fully answered. Reference interview interactions with librarians over email and online chat highlighted the ability of electronic resources and websites to assist in connecting patrons to the information they need. Electronic interfaces (e.g. websites and mobile applications) can either be stumbling blocks or stepping stones to helping patrons or clientele receive relevant, accurate, and appropriate information to match their information needs. Finding how to initiate a reference interview using email or online chat was simple and straightforward because the academic library's website interface was designed clearly and effectively. Despite the ease in finding and initiating the reference interview the answers given over these modes felt incomplete and lacked complete satisfaction in answering the original information requests. Because human communication can be imperfect and ambiguous at times there is an inherent need to listen carefully, ask good questions, and follow-up to make sure the questions were answered in a satisfying way. This seems particularly true of communication modes where the librarian and patron are in separate physical locations. There is a need of more reliance on listening, inquiring, and following-up with non-in-person reference interviews to ensure that the patron feels satisfied with the reference answers. 
+
 ### [LIBR 210 Reference Resources Mini Activities]()
+
+Successfully connecting individuals or groups with accurate, relevant, and appropriate information presupposes that the librarian or information scientist knows where the information resources are located. Knowing as many of these information resources improves the ability and success in connecting individuals and groups with information that meets their needs. A series of assignments (called mini activities) provided experience using information resources across a variety of knowledge domains and disciplines: 
 
 1. Genealogical Reference Resources
 2. Search Engines and Search Strategies
@@ -34,9 +42,15 @@ Coursework completed in the SJSU MLIS program demonstrated how to connect client
 7. Biographical Information, Government Publications, and Web 2.0
 8. Reader’s Advisory and Sources, Children and Young Adults, and Science
 
+These mini activities introduced information resources that can be used to help answer future patrons or clientele reference queries. 
+
+Just like a water well without water is of no value to the thirsty traveler, a librarian or information scientist lacking information resources and answers is of little value to the inquiring patron. 
+
 ### [LIBR 210 Discussion Post: Serving Underserved Populations]()
 
 ## Conclusion
+
+Librarians and patrons get out of the reference interview process what they put in. 
 
 Rangnathan's (1964) seminole treatise on library science lists five laws that information organizations should follow that support all reference service efforts: 1) information items are for use, 2) find everyone their information item, 3) reach out and promote information items to find their owner or patron, 4) save time for the patron, and 5) an information organization is a living organism with chances for growth and decay. These five laws along with principles enumerated in Green's (1876) ALA conference address clarify the core principles and concepts of reference services. The information organization is an "instrument of universal education". Reference services are the spirit of the information organization (Rangnathan, 1964, 354). 
 
@@ -44,8 +58,10 @@ Rangnathan's (1964) seminole treatise on library science lists five laws that in
 
 Finks, L. W. (1991). Librarianship needs a new code of professional ethics. *American Libraries*, 22(1). 84-92.
 
-Green, S. S. (1876). Personal relations between librarians and readers. *The American Library Journal*, *1*(2). 74-81. Retrieved from https://books.google.com/books?id=0R0DAAAAYAAJ
+Green, S. S. (1876). Personal relations between librarians and readers. *The American Library Journal*, *1*(2). 74-81. Retrieved from <https://books.google.com/books?id=0R0DAAAAYAAJ>
 
 Ranganathan, S. R. (1964). *The five laws of library science*. Bombay: Asia Publishing House. 
+
+RUSA, (2013). *Guidelines for behavioral performance of reference and information service providers*. <http://www.ala.org/rusa/resources/guidelines/guidelinesbehavioral>
 
 Tyckoson, D. A. (2008). Reference service: The personal side of librarianship. In K. Haycock & B. E. Sheldon (Eds.), *The portable MLIS: Insights form the experts*. (p. 127-146). Westport, Connecticut: Libraries Unlimited.
