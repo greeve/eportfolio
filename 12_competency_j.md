@@ -12,8 +12,7 @@ The following coursework completed within the SJSU MLIS program demonstrates an 
 
 1. Discussion post about meeting user information needs
 2. Essay on information seeking behaviors
-3. Research paper on Geographic Information Systems (GIS)
-4. EAD Finding Aids search project
+3. EAD Finding Aids search project
 
 ### [LIBR 200 Discussion Post: Meeting Patron Information Needs]()
 
@@ -23,9 +22,37 @@ A discussion post asks whether a librarian should serve the needs of the patrons
 
 Family history research is the study of families by identifying family lineage and history. An essay for an information retrieval course (LIBR 202) analyzed the information seeking behaviors of family history researchers (FHRs). FHRs conduct research within both professional and amateur contexts. They have unique motivations and interests for the information they seek. The information seeking behavior of FHRs is a long term, lifelong approach "carried out sporadically yet intensively" (Darby & Clough, 2013, p. 75). FHR is conducted over an eclectic range of information resources and resource types that can reveal names, birth and death locations and dates, marriage location and date, stories, and photographs about their ancestors. The focus of FHRs is on names first, geographic locations second, and lastly dates Darby & Clough, 2013, p. 74). Information sharing among peers is another unique aspect of FHRs that leads to a strengthened personal understanding of information seeking tools and techniques, advancement of personal FHR and the advancement of peers' FHR. This essay demonstrates that not all user groups and individuals follow the same information seeking behaviors. The information seeking behavior of individuals and groups can be closely connected to the context and setting for the information being sought.
 
-### [LIBR 202 Research Paper: Geographic Information Systems (GIS)]()
-
 ### [INFO 244 Final Project: EAD Finding Aids and Search]()
+
+To help researchers and library patrons as well as ensure the long-term preservation of archival holdings and collections, archivists create detailed descriptions of items and collections in their archives.
+
+These detailed descriptions are called finding aids.
+
+The finding aid is used by archivists as well as patrons to know what is in an archive and where to find the materials in the archive’s collection (Duff & Stoyanova, 1998, p. 44).
+
+The finding aid has been encoded in various formats throughout its history. 
+
+The Encoded Archival Description (EAD) is a digital encoding format for finding aids in an online environment (The Library of Congress, 2012).
+
+A final project in a course about online searching (INFO 244) provided an opportunity to apply principles of information seeking behaviors to the use of EAD finding aids.
+
+Patrons and clientele of archives and special collections rely on finding aids to meet their information needs and complete their research. 
+
+This project showed that the combination of EAD finding aids on the World Wide Web aligned well with Bates' berrypicking search techinque (Bates, 1989).
+
+The display and search interfaces for these finding aids vary widely and lack consistency. 
+
+Poorly designed search interfaces act as a barrier to successfully searching for information in finding aids.
+
+Keyword searching was an information seeking behavior that found the greatest success as compared to subject-based searches against finding aids. 
+
+The project recommended that search interfaces should be aligned with Bates' (1989) model of search strategies providing a broader range of access points to the finding aid. 
+
+Finding aid search interfaces should allow for a variety of access points including subjects, names, dates, and geographic locations.
+
+The project also concluded that a focus on the design of the search interface ignores understanding user information seeking behaviors. 
+
+Better understanding the information seeking behaviors of archival finding aid users will lead to improving search and search interfaces for EAD finding aids. 
 
 ## Conclusion
 
@@ -43,13 +70,19 @@ The result of a more truly user-oriented, innovative, experimental information p
 
 ## References
 
+Bates, M. J. (1989). *The design of browsing and berrypicking techniques for the online search interface*. Retrieved from <https://pages.gseis.ucla.edu/faculty/bates/berrypicking.html>
+
 Case, D. O. (2008). Information seeking. In K. Haycock & B. E. Sheldon (Eds.), *The portable MLIS: Insights form the experts*. (p. 35-41). Westport, Connecticut: Libraries Unlimited.
 
 Darby, P. & Clough, P. (2013). Investigating the information-seeking behaviour of genealogists and family historians. *Journal of Information Science*, *39*(1), 73-84. doi: 10.1177/0165551512469765
 
-Kuhlthau, C. C. (1991). Inside the search process: Information seeking from the user's perspective. *Journal of the American Society for Information Science*, *42*(5), 361-371.
+Duff, W. & Stoyanova, P. (1998). Transforming the crazy quilt: Archival displays from a users' point of view. *Archivaria*, 24, 44-79. Retrieved from <http://journals.sfu.ca/archivar/index.php/archivaria/index>
 
 Järvelin, K. and Wilson, T. D. (2003). On conceptual models for information seeking and retrieval research. *Information Research*, *9*(1). Retrieved from <http://www.informationr.net/ir/9-1/paper163.html>
+
+Kuhlthau, C. C. (1991). Inside the search process: Information seeking from the user's perspective. *Journal of the American Society for Information Science*, *42*(5), 361-371.
+
+Library of Congress. (2012, July 11). *About EAD*. Retrieved from <http://www.loc.gov/ead/eadabout.html>
 
 Rubin, R. E. (2016). *Foundations of library and information science*. Chicago: Neal-Schuman.
 
