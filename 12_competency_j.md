@@ -24,37 +24,15 @@ Family history research is the study of families by identifying family lineage a
 
 ### [INFO 244 Final Project: EAD Finding Aids and Search]()
 
-To help researchers and library patrons as well as ensure the long-term preservation of archival holdings and collections, archivists create detailed descriptions of items and collections in their archives.
+To help researchers and library patrons as well as ensure the long-term preservation of archival holdings and collections, archivists create detailed descriptions of items and collections in their archives. These detailed descriptions are called finding aids. The finding aid is used by archivists as well as patrons to know what is in an archive and where to find the materials in the archive’s collection (Duff & Stoyanova, 1998, p. 44). The finding aid has been encoded in various formats throughout its history. The Encoded Archival Description (EAD) is a digital encoding format for finding aids in an online environment (The Library of Congress, 2012).
 
-These detailed descriptions are called finding aids.
+A final project in a course about online searching (INFO 244) provided an opportunity to apply principles of information seeking behaviors to the use of EAD finding aids. Patrons and clientele of archives and special collections rely on finding aids to meet their information needs and complete their research. This project showed that the combination of EAD finding aids on the World Wide Web aligned well with Bates' berrypicking search techinque (Bates, 1989). The display and search interfaces for these finding aids vary widely and lack consistency. Poorly designed search interfaces act as a barrier to successfully searching for information in finding aids. Keyword searching was an information seeking behavior that found the greatest success as compared to subject-based searches against finding aids. 
 
-The finding aid is used by archivists as well as patrons to know what is in an archive and where to find the materials in the archive’s collection (Duff & Stoyanova, 1998, p. 44).
-
-The finding aid has been encoded in various formats throughout its history. 
-
-The Encoded Archival Description (EAD) is a digital encoding format for finding aids in an online environment (The Library of Congress, 2012).
-
-A final project in a course about online searching (INFO 244) provided an opportunity to apply principles of information seeking behaviors to the use of EAD finding aids.
-
-Patrons and clientele of archives and special collections rely on finding aids to meet their information needs and complete their research. 
-
-This project showed that the combination of EAD finding aids on the World Wide Web aligned well with Bates' berrypicking search techinque (Bates, 1989).
-
-The display and search interfaces for these finding aids vary widely and lack consistency. 
-
-Poorly designed search interfaces act as a barrier to successfully searching for information in finding aids.
-
-Keyword searching was an information seeking behavior that found the greatest success as compared to subject-based searches against finding aids. 
-
-The project recommended that search interfaces should be aligned with Bates' (1989) model of search strategies providing a broader range of access points to the finding aid. 
-
-Finding aid search interfaces should allow for a variety of access points including subjects, names, dates, and geographic locations.
-
-The project also concluded that a focus on the design of the search interface ignores understanding user information seeking behaviors. 
-
-Better understanding the information seeking behaviors of archival finding aid users will lead to improving search and search interfaces for EAD finding aids. 
+The project recommended that search interfaces should be aligned with Bates' (1989) model of search strategies providing a broader range of access points to the finding aid. Finding aid search interfaces should allow for a variety of access points including subjects, names, dates, and geographic locations. The project also concluded that a focus on the design of the search interface ignores understanding user information seeking behaviors. Better understanding the information seeking behaviors of archival finding aid users will lead to improving search and search interfaces for EAD finding aids. 
 
 ## Conclusion
+
+Today's interconnected society is seeing an increase in the quantity of information.
 
 - Deluge of information in today's interconnected society. 
 - Librarians and information scientists here to help sift through the information to help identify sources and information that matters. 
