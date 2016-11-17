@@ -21,9 +21,7 @@ A discussion post asks whether a librarian should serve the needs of the patrons
 
 ### [LIBR 202 Essay: Information Seeking Behaviors]() 
 
-Family history research is the study of families by identifying family lineage and history.
-
-An essay for an information retrieval course (LIBR 202) anaylzed the information seeking behaviors of family history researchers (FHRs).
+Family history research is the study of families by identifying family lineage and history. An essay for an information retrieval course (LIBR 202) analyzed the information seeking behaviors of family history researchers (FHRs). FHRs conduct research within both professional and amateur contexts. They have unique motivations and interests for the information they seek. The information seeking behavior of FHRs is a long term, lifelong approach "carried out sporadically yet intensively" (Darby & Clough, 2013, p. 75). FHR is conducted over an eclectic range of information resources and resource types that can reveal names, birth and death locations and dates, marriage location and date, stories, and photographs about their ancestors. The focus of FHRs is on names first, geographic locations second, and lastly dates Darby & Clough, 2013, p. 74). Information sharing among peers is another unique aspect of FHRs that leads to a strengthened personal understanding of information seeking tools and techniques, advancement of personal FHR and the advancement of peers' FHR. This essay demonstrates that not all user groups and individuals follow the same information seeking behaviors. The information seeking behavior of individuals and groups can be closely connected to the context and setting for the information being sought.
 
 ### [LIBR 202 Research Paper: Geographic Information Systems (GIS)]()
 
@@ -34,6 +32,11 @@ An essay for an information retrieval course (LIBR 202) anaylzed the information
 - Deluge of information in today's interconnected society. 
 - Librarians and information scientists here to help sift through the information to help identify sources and information that matters. 
 
+- models of seeking behavior to explain the causes for how one seeks (analytic) vs. the process taking in searching (summary) (Järvelin)
+
+- ISB is dynamic and multiple strategies and models are used to find information (Xie)
+- There is a wide variety of search models and information seeking behaviors identified. There may not be a one-size-fits-all [universal] model to account for all issues in the search and information retrieval process (Xie)
+
 Wilson, 1981
 
 The result of a more truly user-oriented, innovative, experimental information profession should be a reduction in the marginality of information service. Scientific research generally recognizes the significance of services which provide access to the external research literature, but when such services are adopted by different kinds of organization with little or no adaptation in the light of a proper analysis of the needs of users or of their relationship with organizational communication systems, information services become increasingly marginal to the organization's functioning. Evidence for this can be found in industry, where, when economic pressures have been intense, numerous special libraries and information systems have been abolished or subject to severe staff redundancies.
@@ -42,10 +45,16 @@ The result of a more truly user-oriented, innovative, experimental information p
 
 Case, D. O. (2008). Information seeking. In K. Haycock & B. E. Sheldon (Eds.), *The portable MLIS: Insights form the experts*. (p. 35-41). Westport, Connecticut: Libraries Unlimited.
 
+Darby, P. & Clough, P. (2013). Investigating the information-seeking behaviour of genealogists and family historians. *Journal of Information Science*, *39*(1), 73-84. doi: 10.1177/0165551512469765
+
 Kuhlthau, C. C. (1991). Inside the search process: Information seeking from the user's perspective. *Journal of the American Society for Information Science*, *42*(5), 361-371.
+
+Järvelin, K. and Wilson, T. D. (2003). On conceptual models for information seeking and retrieval research. *Information Research*, *9*(1). Retrieved from <http://www.informationr.net/ir/9-1/paper163.html>
 
 Rubin, R. E. (2016). *Foundations of library and information science*. Chicago: Neal-Schuman.
 
 Wilson, T. D. (1981). On user studies and information needs. *Journal of Documentation*, *37*(1), 3-15. Retrieved from http://informationr.net/tdw/publ/papers/1981infoneeds.html
 
 Wilson, T. D. (1999). Models in information behaviour research. *Journal of Documentation*, *55*(3), 249-270. Retrieved from http://dx.doi.org/10.1108/EUM0000000007145
+
+Xie I. (2012). Information searching and search models. In Bates M. (ed.) *Understanding information retrieval systems*. (p. 31-46). Abingdon: Taylor & Francis.
