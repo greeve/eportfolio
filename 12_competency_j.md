@@ -10,15 +10,24 @@ Information seeking behaviors are studied from a variety of perspectives includi
 
 The following coursework completed within the SJSU MLIS program demonstrates an understanding of the concepts of information seeking behaviors. 
 
-1. Item 1
-2. Item 2
-3. Item 3
+1. Discussion post about meeting user information needs
+2. Essay on information seeking behaviors
+3. Research paper on Geographic Information Systems (GIS)
+4. EAD Finding Aids search project
 
-### [Item 1]()
+### [LIBR 200 Discussion Post: Meeting Patron Information Needs]()
 
-### [Item 2]() 
+A discussion post asks whether a librarian should serve the needs of the patrons rather than the patrons' wants. Put in other words: Should a librarian be popular or right? The discussion post answer states that being right would be preferred to being popular. A patron may not recognize for themselves their exact information need. "Merely answering a patron’s question might not be enough; the individual might want a particular piece of information, only to discover that something different is needed" (Rubin, 2010, p. 275). Finding information is not usually the problem. With more electronic information resources available to more people the quantity of information is not an issue. The issue is in the quality of the data in answering the information need. "For most of the situations [librarians and information scientists] face there is not a problem getting enough information but rather with interpreting and understanding what information we already have" (Case, 2008, 40). This is the role that the information professional plays in understanding the information seeking behaviors of their patrons. If the information professional understands the information seeking behaviors of their patrons they will be able to provide more effective service in meeting their needs. They are positioned to help filter and guide patrons and clientele to sources of information that meet their information needs and in this process show patrons how they can find answers for themselves. 
 
-### [Item 3]()
+### [LIBR 202 Essay: Information Seeking Behaviors]() 
+
+Family history research is the study of families by identifying family lineage and history.
+
+An essay for an information retrieval course (LIBR 202) anaylzed the information seeking behaviors of family history researchers (FHRs).
+
+### [LIBR 202 Research Paper: Geographic Information Systems (GIS)]()
+
+### [INFO 244 Final Project: EAD Finding Aids and Search]()
 
 ## Conclusion
 
