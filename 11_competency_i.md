@@ -16,7 +16,7 @@ Coursework completed in the SJSU MLIS program demonstrated how to connect client
 2. Library reference resources mini activities
 3. Serving underserved populations discussion response
 
-### [LIBR 210 Library Reference Transactions]()
+### [LIBR 210 Library Reference Transactions](https://mlisefolio.files.wordpress.com/2016/11/libr210_reference_interviews.pdf)
 
 Library reference transactions are direct ways librarians or information scientists connect individuals or groups with accurate, relevant, and appropriate information. The [ALA RUSA (Reference and User Services Association) Guidelines](http://www.ala.org/rusa/resources/guidelines/guidelinesbehavioral) identifies and recommends "observable behavioral attributes that could be correlated with positive patron perceptions of reference librarian performance" (RUSA, 2013). Aspects of a reference interview to watch include visibility and approachability, interest, listening and inquiring, searching, and following-up. The success of the patron being connected to the information they need in a positive, uplifting way depends upon the approach the librarian takes to the reference interview. A course on reference librarianship provided four opportunities to interact with a librarian using different modes of communication to observe the application of the RUSA guidelines:
 
