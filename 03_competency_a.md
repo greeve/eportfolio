@@ -1,11 +1,3 @@
-# Info
-
-A. Demonstrate awareness of the ethics, values, and foundational principles of one of the information professions, and discuss the importance of intellectual freedom within that profession;
-
-- Discuss what coursework/work experience prepared you for understanding and being able to perform the competency.
-- Now present and discuss each piece of evidence you selected - say why you selected this evidence and how it demonstrates your competency and the skills and knowledge you learned.
-- Close by discussing how you are able (know how to, or can) apply or transfer your skills and knowledge in the future to different [work] situations or environments.
-
 # Competency A
 
 ## Introduction
