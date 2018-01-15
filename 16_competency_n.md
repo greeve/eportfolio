@@ -1,5 +1,7 @@
 # Competency N
 
+## Introduction
+
 The fourteenth competency in the SJSU iSchool MLIS program is to ["evaluate programs and services using measurable criteria"](http://ischool.sjsu.edu/current-students/courses/core-competencies).
 
 Evaluation can be defined as a process for making judgements about the qualities of something. The purpose behind evaluation is to provide feedback to influence making decisions or policies. Without evaluation an individual, group, or organization is blind to their progress towards an aim or goal. Evaluation is used by information organizations to "[determine] the success, impact, results, costs, outcomes, or other factors related to a library activity, program, service, or resource use" (McClure, 2008, p. 179). An information organization uses evaluation as a means to determine how well they meet the needs of their patrons or clientele and how wisely they are using their allocated resources. Evaluation helps focus the organization on the priorities and efforts that give the greatest impact and benefit to their communities. This process of evaluation helps information organizations ensure that the day-to-day work and efforts are aligned with the organization's mission, vision, and strategic goals. 

@@ -1,5 +1,7 @@
 # Competency C
 
+## Introduction
+
 The third core competency is to ["recognize the diversity (such as cultural and economic) in the clientele and employees of an information organization and be familiar with actions the organization should take to address this diversity"](http://ischool.sjsu.edu/current-students/courses/core-competencies). As technological advancements and societal progress expands our knowledge about the world and its inhabitants one becomes increasingly aware of the diversity that exists in the world. Diversity can be found in various aspects of clientele or employees within a library or information organization. Patrons and employees vary in appearance, physical ability, ethnicity, cultural backgrounds and norms, immigrant status, religious affiliation, gender, education, employment, economic status, and housing. 
 
 In addition to recognizing the diversity that exists within patrons and employees is the need for information organizations to act in ways that help them better understand and reflect this diversity. The [ALA Policy Manual](http://www.ala.org/aboutala/governance/policymanual/updatedpolicymanual/tableofcontents) for diversity states:
