@@ -58,7 +58,7 @@ The following evidence from previous course work demonstrates knowledge of the c
 1. A reference interview assignment following the RUSA guidelines for LIBR 210
 2. A discusion post from LIBR 200 about ethical dilemmas
 
-### LIBR 210: Reference Interview Assignment
+### [LIBR 210: Reference Interview Assignment](https://mlisefolio.files.wordpress.com/2016/09/libr210_a6.pdf)
 
 One of the last assignments for the Reference and Information Services course (LIBR 210) required creating a written script of a librarian answering the question of a patron. 
 
@@ -74,11 +74,9 @@ In this scenario the librarian wasn't able to directly answer whether the action
 
 Instead they shared the legal resources available in the library so that the patron would be empowered to find their own answers. 
 
-The librarian was also bound by the ALA code of ethics to not express their own personal opinion about the legal matter to avoid interfering with the library's institutional aims and the patron's access to information (see ALA Code of Ethics #7). 
+The librarian was also bound by the ALA code of ethics to not express their own personal opinion about the legal matter to avoid interfering with the library's institutional aims and the patron's access to information (see [ALA Code of Ethics #7][ala ethics]). 
 
-- LIBR210\_A6.pages (RUSA guidelines for reference interviews)
-
-### LIBR 200: Ethical dilemma discussion post
+### [LIBR 200: Ethical dilemma discussion post](https://mlisefolio.files.wordpress.com/2016/09/libr200_d3.pdf)
 
 A discussion post assignment in Information and Society (LIBR 200) explored the ethical dilemma of either blindly serving a library patron or not serving the patron when their request conflicts with the community's interests and safety.
 
