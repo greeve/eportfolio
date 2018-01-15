@@ -10,4 +10,4 @@ This is a portfolio for my [Masters of Library and Information Science (MLIS)](h
 
 ## Who am I?
 
-I am a student in the SJSU MLIS program. I also work full-time as a [Data Services Engineer](https://lib.byu.edu/directory/greg-reeve/) for the [Harold B. Lee Library (HBLL)](https://lib.byu.edu) at [Brigham Young University (BYU)](https://byu.edu) where a scholar can [study like a scholar](https://www.youtube.com/watch?v=2ArIj236UHs). 
+I am a graduate of the SJSU MLIS program. I also work full-time as a [Data Services Engineer](https://lib.byu.edu/directory/greg-reeve/) for the [Harold B. Lee Library (HBLL)](https://lib.byu.edu) at [Brigham Young University (BYU)](https://byu.edu) where a scholar can [study like a scholar](https://www.youtube.com/watch?v=2ArIj236UHs). 
