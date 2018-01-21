@@ -1,0 +1,23 @@
+site_name: MLIS Portfolio
+pages:
+    - Welcome: welcome.md
+    - Introduction: introduction.md
+    - Philosophy: philosophy.md
+    - Competencies: 
+        - Introduction: competencies.md
+        - Competency A: competency_a.md
+        - Competency B: competency_b.md
+        - Competency C: competency_c.md
+        - Competency D: competency_d.md
+        - Competency E: competency_e.md
+        - Competency F: competency_f.md
+        - Competency G: competency_g.md
+        - Competency H: competency_h.md
+        - Competency I: competency_i.md
+        - Competency J: competency_j.md
+        - Competency K: competency_k.md
+        - Competency L: competency_l.md
+        - Competency M: competency_m.md
+        - Competency N: competency_n.md
+    - Conclusion: conclusion.md
+    - Affirmation: affirmation.md 

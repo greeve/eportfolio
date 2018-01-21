@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/00_welcome/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/01_introduction/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/02_philosophy/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/03_competencies/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/17_conclusion/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/18_affirmation/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>
