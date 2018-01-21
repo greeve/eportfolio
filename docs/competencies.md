@@ -1,4 +1,4 @@
-# Statement of competencies (A-N)
+## Statement of competencies (A-N)
 
 1. [demonstrate awareness of the ethics, values, and foundational principles of one of the information professions, and discuss the importance of intellectual freedom within that profession;](https://mlisefolio.wordpress.com/competency-a/)
 2. [describe and compare organizational settings in which information professionals practice;](https://mlisefolio.wordpress.com/competency-b/)

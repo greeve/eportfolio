@@ -10,10 +10,10 @@ After graduating with [BS in Geography](https://geography.byu.edu) from [Brigham
 
 This portfolio is the culminating result of this degree. The portfolio is divided up into the following sections:
 
-- [Statement of Professional Philosophy](https://mlisefolio.wordpress.com/philosophy/): A statement that expresses my personal philosophy of librarianship and how libraries contribute to the cultural, economic, educational and social well-being of our communities. 
-- [Competencies](https://mlisefolio.wordpress.com/competencies/): Statements of competency for the [SJSU MLIS 14 core competencies](http://ischool.sjsu.edu/current-students/courses/core-competencies).
-- [Conclusion](https://mlisefolio.wordpress.com/conclusion/): Concluding statements including reflections on the MLIS program. 
-- [Affirmation](https://mlisefolio.wordpress.com/affirmation/): A statement affirmation this work is mine and mine alone and that the portfolio is password-protected and privacy of others is respected.
+- [Statement of Professional Philosophy](philosophy.md): A statement that expresses my personal philosophy of librarianship and how libraries contribute to the cultural, economic, educational and social well-being of our communities. 
+- [Competencies](competencies.md): Statements of competency for the [SJSU MLIS 14 core competencies](http://ischool.sjsu.edu/current-students/courses/core-competencies).
+- [Conclusion](conclusion.md): Concluding statements including reflections on the MLIS program. 
+- [Affirmation](affirmation.md): A statement affirmation this work is mine and mine alone and that the portfolio is password-protected and privacy of others is respected.
 
 Each statement of competency includes evidence gathered from the assignments and projects completed during the MLIS program. These pieces of evidence were collected and saved after each semester for the purpose of utilizing them in this portfolio. Evidence includes links to PDF files of submitted work or links to external content including screencasts and external sites hosting previously submitted assignments. You are invited to view my portfolio for INFO 289 to complete my MLIS at SJSU.
 
