@@ -14,7 +14,7 @@ Pursuing a masters degree in Library and Information Science has magnified my un
 
 My experiences with school libraries, public libraries, academic libraries, and pursing a masters degree in Library and Information Science demonstrate that libraries are an amazing force for good that contribute to the cultural, economic, educational, and social well-being of communities. They provide opportunities to communities and patrons that wouldn't be possible otherwise. They can also play a positive role in giving access to new technology and teaching the skills to use these technologies so that communities and patrons are active participants in today's digital world. As libraries have proved valuable to me in bridging the cultural, economic, educational, and social divides, I feel libraries can also help bridge these gaps for others. As a recipient of that help to access and learn new technologies and new ideas, I look forward to the opportunities as an employee of an academic library to serve others in bridging these gaps for themselves. 
 
-# References
+## References
 
 Dewey, M. (1876). The profession. *The American Library Journal*, *1*(1). 5-6. Retrieved from <https://books.google.com/books?id=0R0DAAAAYAAJ>
 

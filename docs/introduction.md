@@ -17,6 +17,6 @@ This portfolio is the culminating result of this degree. The portfolio is divide
 
 Each statement of competency includes evidence gathered from the assignments and projects completed during the MLIS program. These pieces of evidence were collected and saved after each semester for the purpose of utilizing them in this portfolio. Evidence includes links to PDF files of submitted work or links to external content including screencasts and external sites hosting previously submitted assignments. You are invited to view my portfolio for INFO 289 to complete my MLIS at SJSU.
 
-# References
+## References
 
 Apple. (2010, January 27). Apple announces ipad. [Episode 26]. *Apple Keynotes*. Podcast retrieved from <https://itunes.apple.com/us/podcast/apple-announces-ipad/id275834665?i=80469507&mt=2>
