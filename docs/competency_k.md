@@ -1,5 +1,7 @@
 # Competency K
 
+## Introduction
+
 The eleventh competency in the SJSU iSchool MLIS program is to ["design instructional programs based on learning principles and theories"](http://ischool.sjsu.edu/current-students/courses/core-competencies).
 
 The proliferation of information in today's society is reaching levels never seen previously in recorded history. This rising tide of information coupled with advancements in computing and internet technologies is transforming the way learning and instruction are conducted. Attempting to teach the breadth and depth of human knowledge becomes a futile effort. The goal of teaching and instruction must be to help learners learn how to learn so that they are motivated to become life-long learners. 

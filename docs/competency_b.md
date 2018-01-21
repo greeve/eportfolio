@@ -1,5 +1,7 @@
 # Competency B
 
+## Introduction 
+
 The second core competency is to ["describe and compare organizational settings in which information professionals practice"](http://ischool.sjsu.edu/current-students/courses/core-competencies). 
 
 As the amount and significance of information in society continues to increase there is a correlated increase in the need for information professionals. Information professionals work in a variety of organizational environments that span many disciplines. These professional information disciplines can be viewed as additional disciplines at the same level and along the same spectrum as other professional disciplines. The information disciplines can alternatively be seen as "meta-disciplines" that span all other disciplines (Bates, 2015).

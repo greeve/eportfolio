@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>/</loc>
+     <loc>/welcome/</loc>
      <lastmod>2018-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -11,7 +11,7 @@
 
     
     <url>
-     <loc>/00_welcome/</loc>
+     <loc>/introduction/</loc>
      <lastmod>2018-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -19,7 +19,109 @@
 
     
     <url>
-     <loc>/01_introduction/</loc>
+     <loc>/philosophy/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/competencies/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_a/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_b/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_c/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_d/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_e/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_f/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_g/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_h/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_i/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_j/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_k/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_l/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_m/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/competency_n/</loc>
+     <lastmod>2018-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>/conclusion/</loc>
      <lastmod>2018-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -27,31 +129,7 @@
 
     
     <url>
-     <loc>/02_philosophy/</loc>
-     <lastmod>2018-01-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/03_competencies/</loc>
-     <lastmod>2018-01-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/17_conclusion/</loc>
-     <lastmod>2018-01-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/18_affirmation/</loc>
+     <loc>/affirmation/</loc>
      <lastmod>2018-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url>

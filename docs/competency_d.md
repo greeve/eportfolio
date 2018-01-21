@@ -1,5 +1,7 @@
 # Competency D
 
+## Introduction
+
 The fourth competency requires demonstrating that one can ["apply the fundamental principles of planning, management, marketing, and advocacy;"](http://ischool.sjsu.edu/current-students/courses/core-competencies). Planning, management, marketing, and advocacy are essential components of a successful information organization. Commonly considered within the context of private and for-profit businesses, these components can also be applied to public and non-profit information organizations contexts. 
 
 Planning (or strategic planning) is the process that connects an organization's mission, aims, and vision with the actions and results of the organization. Whether by intention or not it is appropriate that planning is listed first in this competency as planning establishes the framework to support the organization's management, marketing, and advocacy efforts. Planning assesses the organization by looking at the  organization's past, present, and future, and identifying and analyzing the internal and external forces surrounding the organization. It also helps assess the organization's identity and role both to internal staff and employees as well as to the organization's patron's, clientele, and community. The organization's missions, vision, goals, priorities, service offerings, tasks, and actions are all influenced by this planning process. 

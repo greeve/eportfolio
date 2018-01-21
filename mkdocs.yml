@@ -1,6 +1,6 @@
 site_name: MLIS Portfolio
 pages:
-    - Welcome: welcome.md
+    - Welcome: index.md
     - Introduction: introduction.md
     - Philosophy: philosophy.md
     - Competencies: 

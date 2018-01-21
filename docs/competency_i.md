@@ -1,5 +1,7 @@
 # Competency I
 
+## Introduction
+
 The ninth competency in the SJSU iSchool MLIS program is to ["use service concepts, principles, and techniques to connect individuals or groups with accurate, relevant, and appropriate information"](http://ischool.sjsu.edu/current-students/courses/core-competencies).
 
 Information organizations haven't always been service oriented (Tyckoson, 2008, p. 128). Historically information organizations have focused on building collections and preserving materials in those collections. Patrons of those organizations were predominately a relatively small class of elites within society. The majority of people within society were denied access to these information organizations and their collections due to a variety of factors including economic status and low literacy rates. There was an overall low general demand for personal access to reading materials. Since the late 19th century information organizations and their staff have shifted towards a more service-oriented approach as literacy and education rates increased helping to raise demand for access to reading materials. 
