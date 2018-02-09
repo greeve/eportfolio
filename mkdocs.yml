@@ -21,3 +21,5 @@ pages:
         - Competency N: competency_n.md
     - Conclusion: conclusion.md
     - Affirmation: affirmation.md 
+extra_css: 
+    - css/extra.css
