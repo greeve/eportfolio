@@ -16,7 +16,7 @@ The following evidence from previous course work demonstrate experience in using
 2. Discussion post about digital preservation
 3. INFO 280 manuscript/book projects (evaluation)
 
-### [LIBR 210: Annotated Bibliography](http://greeve.github.io/library/biblio/gis/)
+### [LIBR 210: Annotated Bibliography](https://greeve.github.io/mlis/libr210/bibliography/)
 
 This assignment required creating an annotated bibliography. An annotated bibliography is an organized list of bibliographic entries for information items with a brief description and assessment to justify including the item in a library collection. The annotated bibliography can be used by staff of an information organization to guide their collection development decisions so that the organization better serves the needs of its patrons or clientele. 
 
@@ -36,7 +36,7 @@ If "age of loss" is defined as not being able to preserve everything then the hi
 
 Computing technologies will continue to improve and reduce in cost. What was possible technically 20 years previously has radically changed compared to the present state of digital and computing technologies. The real challenge in digital preservation isn't technical in nature but rather a challenge of resources: time, money, and personnel. 
 
-### [INFO 280 Manuscript and Printed Book Projects](http://greeve.github.io/library/scrivener/)
+### [INFO 280 Manuscript and Printed Book Projects](https://greeve.github.io/mlis/info280/scrivener/)
 
 Fundamental to any preservation work is deeply understanding the nature of the item that is considered for preservation. Two projects provided opportunities to deeply examine and consider physical information items within a new digital context. To examine the items in detail required either gaining access to a physical copy the item or finding a high-quality digital scan. Bibliographies were also authored for both projects of sources used to examine and explain the items. 
 

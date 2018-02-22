@@ -44,8 +44,8 @@ Writing is, has been, and will continue to be a de facto medium for disseminated
 
 1. [LIBR 202 Term Paper: Geographic Information Retrieval](media/libr202_tp.pdf)
 2. [LIBR 204 Essay: Good to Great Leadership](media/c_reeve_good_to_great.pdf)
-3. [LIBR 210 Library Guide](http://greeve.github.io/library/guides/mapping/)
-4. [LIBR 210 Annotated Bibliography](http://greeve.github.io/library/biblio/gis/)
+3. [LIBR 210 Library Guide](https://greeve.github.io/mlis/libr210/guide/)
+4. [LIBR 210 Annotated Bibliography](https://greeve.github.io/mlis/libr210/bibliography/)
 5. [INFO 285 Research Methods Critique](media/info285_research_critique.pdf)
 6. [INFO 285 Literature Review](media/info285_literature_review_2.pdf)
 7. [INFO 285 Research Project Proposal](media/info285_final.pdf)
