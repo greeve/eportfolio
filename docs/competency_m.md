@@ -42,13 +42,13 @@ While each of these screencasts or presentations vary in the intended end-user, 
 
 Writing is, has been, and will continue to be a de facto medium for disseminated knowledge and information. Writing clearly and effectively is essential to the work performed by information professionals as they collect, organize, and make available information to meet the needs of their patrons or clientele. Like presentations writing requires clarity and concision so that the reader is clear about the purpose of the written material. It requires the ability to organize thoughts and ideas in clear, logical patterns and groupings. This requires broad and deep understanding and preparation of the material to be shared in written word. The SJSU MLIS program offered multiple opportunities to practice and demonstrate skills related to communicating through writing. The following items are a curated sample of written work that demonstrates the skills to communication through the written word:
 
-1. [LIBR 202 Term Paper: Geographic Information Retrieval](https://mlisefolio.files.wordpress.com/2016/11/libr202_tp.pdf)
-2. [LIBR 204 Essay: Good to Great Leadership](https://mlisefolio.files.wordpress.com/2016/10/c_reeve_good_to_great.pdf)
+1. [LIBR 202 Term Paper: Geographic Information Retrieval](media/libr202_tp.pdf)
+2. [LIBR 204 Essay: Good to Great Leadership](media/c_reeve_good_to_great.pdf)
 3. [LIBR 210 Library Guide](http://greeve.github.io/library/guides/mapping/)
 4. [LIBR 210 Annotated Bibliography](http://greeve.github.io/library/biblio/gis/)
-5. [INFO 285 Research Methods Critique](https://mlisefolio.files.wordpress.com/2016/11/info285_research_critique.pdf)
-6. [INFO 285 Literature Review](https://mlisefolio.files.wordpress.com/2016/11/info285_literature_review_2.pdf)
-7. [INFO 285 Research Project Proposal](https://mlisefolio.files.wordpress.com/2016/11/info285_final.pdf)
+5. [INFO 285 Research Methods Critique](media/info285_research_critique.pdf)
+6. [INFO 285 Literature Review](media/info285_literature_review_2.pdf)
+7. [INFO 285 Research Project Proposal](media/info285_final.pdf)
 
 Each of these projects varies in terms of the content material and in the form used to present the written communication. Items 1, 2, 5, 6, and 7 are written in a report or essay form following the [American Psychological Association (APA)](http://www.apa.org/) [writing style](http://www.apastyle.org/index.aspx). Items 3 and 4 are materials written on the World Wide Web (WWW). Despite the differences in form, audience, and presentation each of these written items required a broad and deep level of understanding the subject matter and content material that is included in each item. Each involved a process of brainstorming to capture ideas about the given subject area to explore themes and ideas that can be shared in the written item. Each required having a clear idea of the purpose behind each written item. The writing of each of the items also included study and research to collect and organize scholarly references and bibliographic materials. They all follow a similar pattern of introducing a topic, stating the main purpose or thesis for the material, presenting arguments and ideas to support the thesis, and then concluding with restating the thesis and summarizing the items main points. Each of these written items demonstrate the written communication skills necessary for professional work.
 
@@ -56,9 +56,9 @@ Each of these projects varies in terms of the content material and in the form u
 
 Information professionals work in environments and information organizations that require collaboration. In today's interconnected world they cannot afford to work alone isolated from others. The success of the work of an information professional and their organization depends upon their ability to reach out to others in a spirit of collaboration and constructive group effort. Information organizations are part of a larger social ecology that includes multiple individuals. Work functions and responsibilities are closely connected to the relationships between individuals in an organization. Accomplishing the mission, vision, and goals of the organization are only possible with collaboration and group efforts. The following group projects completed in the SJSU MLIS program demonstrate communication skills related to collaboratio: 
 
-1. [LIBR 202 Group Database Design](https://mlisefolio.files.wordpress.com/2016/11/libr202_group_database_design.pdf)
-2. [LIBR 247 Final Project: Thesaurus Construction](https://mlisefolio.files.wordpress.com/2016/11/libr247_final.pdf)
-3. [LIBR 204 Strategic Plan Project](https://mlisefolio.files.wordpress.com/2016/10/group2_part1_strategicplan_libr204.pdf)
+1. [LIBR 202 Group Database Design](media/libr202_group_database_design.pdf)
+2. [LIBR 247 Final Project: Thesaurus Construction](media/libr247_final.pdf)
+3. [LIBR 204 Strategic Plan Project](media/group2_part1_strategicplan_libr204.pdf)
 
 Each of these projects represents the culmination in team efforts to accomplish a particular course requirement. Item 1 was a two-phase project to learn principles and theory related to information retrieval and database design. Item 2 was a group project to create a thesaurus. Item 3 was a two-phase group project to create a strategic plan for an existing public library. While each of these projects were different in terms of the subject matter, length of project, and project outputs, the skills related to collaboration and group work apply equally to each project. 
 

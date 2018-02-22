@@ -61,7 +61,7 @@ The screencast was scripted in a way that would make it easy for the viewer to h
 
 This instructional screencast follows the active learning, computer-aided instruction, and self-directed instructional methods. Objectives of the screencast included giving the viewer their own experiences working with the library database interface trusting that the viewer's understanding and motivations in using the interface would grow with more experience and hands-on learning. 
 
-### [LIBR 210 Discussion Post: Flipped Classrooms](https://mlisefolio.files.wordpress.com/2016/11/libr210_d13_flipped_classrooms.pdf)
+### [LIBR 210 Discussion Post: Flipped Classrooms](media/libr210_d13_flipped_classrooms.pdf)
 
 Pedagogical methods and techniques evolve and develop as computer and networking technologies progress. The emergence of the internet and the WWW in the late 20th century enabled new forms of instruction and learning. Some of these forms are simply digital versions of presently held methodologies and approaches. The flipped classroom is a new form of teaching and instruction that is made easier with digital and computing technologies. 
 

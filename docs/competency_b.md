@@ -24,13 +24,13 @@ The following evidence from previous course work and professional experience dem
 2. A semester-long research project developing a strategic plan for a public library. 
 3. Professional experience working in an academic library. 
 
-### [LIBR 200 Reflective Essay: Professional Associations](https://mlisefolio.files.wordpress.com/2016/10/libr200_plar.pdf)
+### [LIBR 200 Reflective Essay: Professional Associations](media/libr200_plar.pdf)
 
 This assignment required writing about a professional association within the library and information and profession. Professional associations are important to the organizational setting of information professionals because of their role in providing a support network that connects together similar organizations. This support network gives practitioners access to resources and tools that can help them accomplish their work that would be hard to find and discover on their own. This reflective essay focuses on the [ARL](http://www.arl.org). 
 
 Started in 1932 by 42 university and research library directors the ARL is a non-profit library association that currently includes 125 research libraries. The association's core principles and mission center are built upon open access to information, research libraries as a major source of knowledge to society, identifying and acting on emerging trends, and meeting the needs of the communities served by each research library. Like many professional associations, ARL acts like connective tissue linking library and information organizations with similar goals and initiatives. The work done by the ARL and its member research libraries establish industry standards, policies, and best practices for information professionals that help them better serve their patron's and communities.
 
-### [LIBR 204 Strategic Planning Project](https://mlisefolio.files.wordpress.com/2016/10/group2_part1_strategicplan_libr204.pdf)
+### [LIBR 204 Strategic Planning Project](media/group2_part1_strategicplan_libr204.pdf)
 
 An information professional's organizational setting is shaped and influenced by many forces both intentional and unintentional. Strategic planning is the organizational process that strives to shape and direct the mission, vision, and values of an organization and its members. It also includes environmental scanning and analyzing the organization's strengths, weaknesses, opportunities, and threats (SWOT). This planning process and the implementation of that plan also shape the organizational setting of information professionals. 
 

@@ -19,23 +19,23 @@ The following evidence from previous course work demonstrate an understanding of
 3. A discussion posting about meeting the needs of underserved populations. 
 4. A strategic planning project showing the diversity within a public library.
 
-### [LIBR 200 Discussion post: Professional Library Associations](https://mlisefolio.files.wordpress.com/2016/10/libr202_d5_library_associations.pdf)
+### [LIBR 200 Discussion post: Professional Library Associations](media/libr202_d5_library_associations.pdf)
 
 Professional Library Associations give information professionals an opportunity to join a community where they can share ideas, solutions, best practices, job experiences, and job openings. Researching about these associations and writing a discussion post on the research findings demonstrates the diversity present in a professional association and how this diversity can lead to improving everyone. Although the community shares a similar set of professional interests and pursuits the network of information professionals come from diverse cultural and economic backgrounds. Associating with information professionals from diverse backgrounds and settings gives opportunities to learn from each other and see new perspectives that were previously unknown or unfamiliar. Information organizations can encourage their employees to join and participate in a professional library association. This encouragement promotes the value and benefits of diversity to the organization's employees and its surrounding community by ensuring more broadly skilled and trained professionals who effectively serve the needs of the community.
 
-### [LIBR 204 Essay: Good to Great](https://mlisefolio.files.wordpress.com/2016/10/c_reeve_good_to_great.pdf)
+### [LIBR 204 Essay: Good to Great](media/c_reeve_good_to_great.pdf)
 
 An information organization faces the challenge of uniting a diverse group of professionals around a shared vision all can support and trust. Great leaders exhibit the qualities that unite a team or organization around a common purpose and vision. They put the mission of the organization first before themselves or anything else. This assignment looked at the leadership qualities exhibited by Daniel J. Cohen the current executive director of the [Digital Public Library of America (DPLA)](http://www.dp.la).
 
 Cohen has spent most of his professional career on digital and computer technology-focused initiatives and projects. Like a film director leading a diverse group of professional staff to create a unique and worthwhile film, Cohen directs projects with "a core belief that large-scale initiatives involving technology are actually *social* projects. That is, successful digital projects mainly involve getting diverse people working together towards an ideal" (Enis, 2013). Researching and writing about Cohen shows that diversity can be an asset in accomplishing group projects and tasks rather than an obstacle. Rather than ignoring diversity that exists within an information organization Cohen respects and embraces that diversity knowing that it will lead to creating a better product and service. 
 
-### [LIBR 210 Discussion Post: Underserved Populations](https://mlisefolio.files.wordpress.com/2016/10/libr210_d8_underserved_populations.pdf)
+### [LIBR 210 Discussion Post: Underserved Populations](media/libr210_d8_underserved_populations.pdf)
 
 Visual impairment is a significant obstacle to full participation within society and access to information. The visually impaired are an example population that is typically underserved by information organizations. Because so much of what an information organization provides is visual in nature this group can go unnoticed and poorly served. The visually impaired are a diverse population among patrons of an information organization. They deserve service that enables their full participation and access to information just as those without any visual impairment. 
 
 Researching and writing this discussion post demonstrated the need for information organizations and their employees to find ways that will better serve the visually impaired. Supervisors and managers need to recognize this underserved population and ensure that their employees within the organization have all the resources required to provide high quality service to these patrons. This includes the time, money, and tools so that information professionals within the organization can develop the skills and training to acquire, implement, and maintain the resources and technologies that are used by the visually impaired. When an information organization addresses the needs of all in the community with a high level of service these underserved populations can change to being well-served patrons that feel included and a part of the community.
 
-### [LIBR 204 Strategic Planning Project](https://mlisefolio.files.wordpress.com/2016/10/group2_part1_strategicplan_libr204.pdf)
+### [LIBR 204 Strategic Planning Project](media/group2_part1_strategicplan_libr204.pdf)
 
 There are many ways for an information organization to improve the organization's "cultural competency" (Evans and Ward, 2007, p. 46). Strategic planning is a key way that employees and leaders of an organization use to set the priorities and focus of the organization. A strategic planning project for LIBR 204 involved creating a strategic plan for an existing public library. This involved researching the library and its community as well as the process of creating a strategic plan.
 
